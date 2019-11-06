@@ -1,0 +1,1207 @@
+Object Detection With Deep Learning: A Review
+Parallel Coordinate Descent Newton Method for Efficient L1-Regularized Loss Minimization
+Cluster Synchronization for Neutral Stochastic Delay Networks via Intermittent Adaptive Control
+Variational Inference for 3-D Localization and Tracking of Multiple Targets Using Multiple Cameras
+Separability and Compactness Network for Image Recognition and Superresolution
+Utilizing Unlabeled Data to Detect Electricity Fraud in AMI: A Semisupervised Deep Learning Approach
+Neural Adaptive Event-Triggered Control for Nonlinear Uncertain Stochastic Systems With Unknown Hysteresis
+Features Combined From Hundreds of Midlayers: Hierarchical Networks With Subnetwork Nodes
+Natural Language Statistical Features of LSTM-Generated Texts
+An Accelerated Linearly Convergent Stochastic L-BFGS Algorithm
+3-D PersonVLAD: Learning Deep Global Representations for Video-Based Person Reidentification
+Computing Time-Varying Quadratic Optimization With Finite-Time Convergence and Noise Tolerance: A Unified Framework for Zeroing Neural Network
+Multistep Prediction of Dynamic Systems With Recurrent Neural Networks
+New Results on Stability Analysis for Delayed Markovian Generalized Neural Networks With Partly Unknown Transition Rates
+Short Sequence Classification Through Discriminable Linear Dynamical System
+Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning
+Balanced Decoupled Spatial Convolution for CNNs
+A Greedy Assist-as-Needed Controller for Upper Limb Rehabilitation
+A Novel Dual Successive Projection-Based Model-Free Adaptive Control Method and Application to an Autonomous Car
+Memristive Imitation of Synaptic Transmission and Plasticity
+Large-Margin Label-Calibrated Support Vector Machines for Positive and Unlabeled Learning
+Evaluate the Malignancy of Pulmonary Nodules Using the 3-D Deep Leaky Noisy-OR Network
+Incremental Local Distribution-Based Clustering Using Bayesian Adaptive Resonance Theory
+Episodic Memory in Minicolumn Associative Knowledge Graphs
+Low-Rank Matrix Learning Using Biconvex Surrogate Minimization
+Errata: Distributed Event-Triggered Adaptive Control for Cooperative Output Regulation of Heterogeneous Multi-Agent Systems Under Switching Topology
+Guest Editorial Special Issue on Discriminative Learning for Model Optimization and Statistical Inference
+L1-Norm Heteroscedastic Discriminant Analysis Under Mixture of Gaussian Distributions
+Efficient Recovery of Low-Rank Matrix via Double Nonconvex Nonsmooth Rank Minimization
+Supervised Discriminative Sparse PCA for Com-Characteristic Gene Selection and Tumor Classification on Multiview Biological Data
+Probabilistic Linear Discriminant Analysis With Vectorial Representation for Tensor Data
+Semisupervised Discriminant Multimanifold Analysis for Action Recognition
+Hypergraph-Induced Convolutional Networks for Visual Classification
+Learning Aggregated Transmission Propagation Networks for Haze Removal and Beyond
+Person Reidentification via Structural Deep Metric Learning
+Person Reidentification by Joint Local Distance Metric and Feature Transformation
+Multiview Multitask Gaze Estimation With Deep Convolutional Neural Networks
+Spatially Regularized Structural Support Vector Machine for Robust Visual Tracking
+Dynamic Collaborative Tracking
+From Deterministic to Generative: Multimodal Stochastic RNNs for Video Captioning
+A Local and Global Discriminative Framework and Optimization for Balanced Clustering
+A Robust AUC Maximization Framework With Simultaneous Outlier Detection and Feature Selection for Positive-Unlabeled Classification
+Kernel-Based Distance Metric Learning for Supervised k-Means Clustering
+A Deep Collaborative Framework for Face Photo–Sketch Synthesis
+Deep Latent Low-Rank Representation for Face Sketch Synthesis
+Learning Time Series Associated Event Sequences With Recurrent Point Process Networks
+Event/Self-Triggered Control for Leader-Following Consensus Over Unreliable Network With DoS Attacks
+Synchronization Control for Network Systems With Communication Constraints
+Distributed Extremum Seeking for Optimal Resource Allocation and Its Application to Economic Dispatch in Smart Grids
+Crowdsourced Label Aggregation Using Bilayer Collaborative Clustering
+Clone-Based Encoded Neural Networks to Design Efficient Associative Memories
+Learning Algorithm for Boltzmann Machines With Additive Weight and Bias Noise
+Nonparametric Dimension Reduction via Maximizing Pairwise Separation Probability
+Learning Discrete-Time Markov Chains Under Concept Drift
+Semiparametric Clustering: A Robust Alternative to Parametric Clustering
+Rescaled Boosting in Classification
+A Novel Equivalent Model of Active Distribution Networks Based on LSTM
+Neural Network Controller Design for a Class of Nonlinear Delayed Systems With Time-Varying Full-State Constraints
+Submodular Function Optimization for Motion Clustering and Image Segmentation
+Regularizing Deep Neural Networks by Enhancing Diversity in Feature Extraction
+A Lagrangian Relaxation Approach for Binary Multiple Instance Classification
+Learning a Low Tensor-Train Rank Representation for Hyperspectral Image Super-Resolution
+A Multistage Game in Smart Grid Security: A Reinforcement Learning Solution
+Identification and Control of Nonlinear Systems Using Neural Networks: A Singularity-Free Approach
+Task-Oriented GAN for PolSAR Image Classification and Clustering
+Tractable Learning and Inference for Large-Scale Probabilistic Boolean Networks
+Less Is More: A Comprehensive Framework for the Number of Components of Ensemble Classifiers
+Classification by Sparse Neural Networks
+EEG-Based Spatio–Temporal Convolutional Neural Network for Driver Fatigue Evaluation
+Mining Top-k Useful Negative Sequential Patterns via Learning
+Simultaneously Learning Neighborship and Projection Matrix for Supervised Dimensionality Reduction
+Learning With Annotation of Various Degrees
+Adversarial Examples: Attacks and Defenses for Deep Learning
+Scalable Proximal Jacobian Iteration Method With Global Convergence Analysis for Nonconvex Unconstrained Composite Optimizations
+A Recursive Approach to Quantized H∞ State Estimation for Genetic Regulatory Networks Under Stochastic Communication Protocols
+A Novel Neural Network for Remote Sensing Image Matching
+Bayesian Weight Decay on Bounded Approximation for Deep Convolutional Neural Networks
+Morphological Convolutional Neural Network Architecture for Digit Recognition
+Unsupervised Feature Selection via Adaptive Multimeasure Fusion
+Dynamic Feature Acquisition Using Denoising Autoencoders
+A Novel and Safe Two-Stage Screening Method for Support Vector Machine
+Self-Tuned Discrimination-Aware Method for Unsupervised Feature Selection
+Fast-Time Stability of Temporal Boolean Networks
+A Particle Swarm Optimization-Based Flexible Convolutional Autoencoder for Image Classification
+Reconstructing Perceived Images From Human Brain Activities With Bayesian Deep Multiview Learning
+Integrated Sliding Mode Control and Neural Networks Based Packet Disordering Prediction for Nonlinear Networked Control Systems
+Asynchronous Multiplex Communication Channels in 2-D Neural Network With Fluctuating Characteristics
+Zeroing Neural Network for Solving Time-Varying Linear Equation and Inequality Systems
+Global Synchronization of Coupled Fractional-Order Recurrent Neural Networks
+Stochastic Graphlet Embedding
+Identification of the Structure of a Probabilistic Boolean Network From Samples Including Frequencies of Outcomes
+Two Birds With One Stone: A Coupled Poisson Deconvolution for Detecting and Describing Topics From Multimodal Web Data
+Modified Gram–Schmidt Method-Based Variable Projection Algorithm for Separable Nonlinear Models
+Power-Type Varying-Parameter RNN for Solving TVQP Problems: Design, Analysis, and Applications
+Passivity and Synchronization of Coupled Uncertain Reaction–Diffusion Neural Networks With Multiple Time Delays
+Finding Principal Paths in Data Space
+t-Exponential Memory Networks for Question-Answering Machines
+Near-Nash Equilibrium Control Strategy for Discrete-Time Nonlinear Systems With Round-Robin Protocol
+Covariance Matrix Adaptation for Multiobjective Multiarmed Bandits
+A Two-Timescale Duplex Neurodynamic Approach to Biconvex Optimization
+Plume Tracing via Model-Free Reinforcement Learning Method
+Extended Dissipativity Analysis for Markovian Jump Neural Networks With Time-Varying Delay via Delay-Product-Type Functionals
+Recurrent Neural Network Model: A New Strategy to Solve Fuzzy Matrix Games
+Function Perturbation Impact on Feedback Stabilization of Boolean Control Networks
+Set Stabilization of Probabilistic Boolean Networks Using Pinning Control
+Stability Analysis for Delayed Neural Networks via Improved Auxiliary Polynomial-Based Functions
+The Boundedness Conditions for Model-Free HDP(λ)
+Training Passive Photonic Reservoirs With Integrated Optical Readout
+Seeing All From a Few: ℓ1-Norm-Induced Discriminative Prototype Selection
+Inverting the Generator of a Generative Adversarial Network
+Neuroadaptive Fault-Tolerant Control of Quadrotor UAVs: A More Affordable Solution
+Efficient Multispike Learning for Spiking Neural Networks Using Probability-Modulated Timing Method
+A Cross-Domain Recommender System With Kernel-Induced Knowledge Transfer for Overlapping Entities
+Shared Nearest-Neighbor Quantum Game-Based Attribute Reduction With Hierarchical Coevolutionary Spark and Its Application in Consistent Segmentation of Neonatal Cerebral Cortical Surfaces
+Two-Dimensional Quaternion PCA and Sparse PCA
+L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks
+Multistability of Switched Neural Networks With Piecewise Linear Activation Functions Under State-Dependent Switching
+Robust Subspace Clustering by Cauchy Loss Function
+Tracking Sparse Linear Classifiers
+Extreme Learning Machine With Affine Transformation Inputs in an Activation Function
+Low-Voltage Low-Power Integrable CMOS Circuit Implementation of Integer- and Fractional–Order FitzHugh–Nagumo Neuron Model
+Global Nonfragile Synchronization in Finite Time for Fractional-Order Discontinuous Neural Networks With Nonlinear Growth Activations
+Topic-Based Algorithm for Multilabel Learning With Missing Labels
+Neural Network Filtering Control Design for Nontriangular Structure Switched Nonlinear Systems in Finite Time
+Biased Random Forest For Dealing With the Class Imbalance Problem
+Fast and Accurate Sparse Coding of Visual Stimuli With a Simple, Ultralow-Energy Spiking Architecture
+Adaptive Leader-Following Consensus for Multiple Euler–Lagrange Systems With an Uncertain Leader System
+Effects of State-Dependent Impulses on Robust Exponential Stability of Quaternion-Valued Neural Networks Under Parametric Uncertainty
+Data Subset Selection With Imperfect Multiple Labels
+Prescribed Performance Model-Free Adaptive Integral Sliding Mode Control for Discrete-Time Nonlinear Systems
+Visualization Methods for Image Transformation Convolutional Neural Networks
+Deep FisherNet for Image Classification
+On the Universality of Memcomputing Machines
+Spatio-Temporal Interpolated Echo State Network for Meteorological Series Prediction
+Exploiting Generalization in the Subspaces for Faster Model-Based Reinforcement Learning
+Event-Sampled Output Feedback Control of Robot Manipulators Using Neural Networks
+A Nonconvex Relaxation Approach to Low-Rank Tensor Completion
+Coupled Neural P Systems
+Axially Symmetric Data Clustering Through Dirichlet Process Mixture Models of Watson Distributions
+Finite-Horizon l2−l∞ Synchronization for Time-Varying Markovian Jump Neural Networks Under Mixed-Type Attacks: Observer-Based Case
+Training Lightweight Deep Convolutional Neural Networks Using Bag-of-Features Pooling
+The State Following Approximation Method
+Data Augmentation-Based Joint Learning for Heterogeneous Face Recognition
+Attention Inspiring Receptive-Fields Network for Learning Invariant Representations
+Adaptive Neural Control for MIMO Pure-Feedback Nonlinear Systems With Periodic Disturbances
+Deep Transfer Low-Rank Coding for Cross-Domain Learning
+Finite-Time Distributed Average Tracking for Second-Order Nonlinear Systems
+Maximum Likelihood Estimation-Based Joint Sparse Representation for the Classification of Hyperspectral Remote Sensing Images
+Feature Extraction for Incomplete Data Via Low-Rank Tensor Decomposition With Feature Regularization
+Eigenfunction-Based Multitask Learning in a Reproducing Kernel Hilbert Space
+Stable and Efficient Policy Evaluation
+Nonfragile Dissipative Synchronization for Markovian Memristive Neural Networks: A Gain-Scheduled Control Scheme
+Global Exponential Stability and Synchronization for Discrete-Time Inertial Neural Networks With Time Delays: A Timescale Approach
+Multidimensional Balance-Based Cluster Boundary Detection for High-Dimensional Data
+Model Order Reduction Based on Agglomerative Hierarchical Clustering
+Toward Resolution-Invariant Person Reidentification via Projective Dictionary Learning
+Convergence Conditions for Solving Robust Iterative Learning Control Problems Under Nonrepetitive Model Uncertainties
+Weighted p-Bits for FPGA Implementation of Probabilistic Circuits
+Deep Neural Network Initialization With Decision Trees
+Neural Learning Control of Strict-Feedback Systems Using Disturbance Observer
+Off-Policy Interleaved  Q-Learning: Optimal Control for Affine Nonlinear Discrete-Time Systems
+Feature Analysis of Marginalized Stacked Denoising Autoenconder for Unsupervised Domain Adaptation
+On the Representational Power of Restricted Boltzmann Machines for Symmetric Functions and Boolean Functions
+Pool-Based Sequential Active Learning for Regression
+Stochastic Conjugate Gradient Algorithm With Variance Reduction
+Quantized Minimum Error Entropy Criterion
+Heterogeneous Domain Adaptation Through Progressive Alignment
+Generalization and Expressivity for Deep Nets
+Temporal Attention-Augmented Bilinear Network for Financial Time-Series Data Analysis
+Face Sketch Synthesis by Multidomain Adversarial Learning
+Deep Semantic-Preserving Ordinal Hashing for Cross-Modal Similarity Search
+Bag-Level Aggregation for Multiple-Instance Active Learning in Instance Classification Problems
+Nonuniformly Sampled Data Processing Using LSTM Networks
+Distributed Adaptive Tracking Synchronization for Coupled Reaction–Diffusion Neural Network
+Novel Finite-Time Synchronization Criteria for Inertial Neural Networks With Time Delays via Integral Inequality Method
+Early Expression Detection via Online Multi-Instance Learning With Nonlinear Extension
+LTNN: A Layerwise Tensorized Compression of Multilayer Neural Network
+Approximate Optimal Distributed Control of Nonlinear Interconnected Systems Using Event-Triggered Nonzero-Sum Games
+Output Feedback Q-Learning Control for the Discrete-Time Linear Quadratic Regulator Problem
+Multistability of Delayed Hybrid Impulsive Neural Networks With Application to Associative Memories
+STRAINet: Spatially Varying sTochastic Residual AdversarIal Networks for MRI Pelvic Organ Segmentation
+A Deep Learning Approach to Competing Risks Representation in Peer-to-Peer Lending
+Dynamical Behavior of Nonautonomous Stochastic Reaction–Diffusion Neural-Network Models
+Hierarchical Feature Selection for Random Projection
+Generalized Uncorrelated Regression with Adaptive Graph for Unsupervised Feature Selection
+Output-Feedback Adaptive Neural Controller for Uncertain Pure-Feedback Nonlinear Systems Using a High-Order Sliding Mode Observer
+Multiobjective Support Vector Machines: Handling Class Imbalance With Pareto Optimality
+For the current round of competition, any paper published in 2017 (Volume 28) of TNNLS is eligible for consideration.
+The nomination deadline is April 30, 2019 (strict deadline).
+The complete nomination packet must include the following information: Nominator, Full Citation of the Nominated Paper (including author names, paper title, publication volume, issue, and page numbers), Basis for Nomination, Proposed Citation, 3 Reference Letters, and a Copy of the Nominated Paper.
+The complete nomination package should be submitted in a single PDF file by email to the Awards Soliciting Nominations Subcommittee Chair, Prof. Sanaz Mostaghim at sanaz.mostaghim@ovgu.de and a copy to cis-info@ieee.org and haibohe@uri.edu
+Denoising Adversarial Autoencoders
+A Novel Cluster Validity Index Based on Local Cores
+Exponential Synchronization for Delayed Dynamical Networks via Intermittent Control: Dealing With Actuator Saturations
+Semantically Modeling of Object and Context for Categorization
+Exponential Synchronizationlike Criterion for State-Dependent Impulsive Dynamical Networks
+Variational Bayesian Learning of Generalized Dirichlet-Based Hidden Markov Models Applied to Unusual Events Detection
+Self-Organizing Neuroevolution for Solving Carpool Service Problem With Dynamic Capacity to Alternate Matches
+Online Robust Low-Rank Tensor Modeling for Streaming Data Analysis
+Adaptive Neural State-Feedback Tracking Control of Stochastic Nonlinear Switched Systems: An Average Dwell-Time Method
+Active Learning From Imbalanced Data: A Solution of Online Weighted Extreme Learning Machine
+Perception Coordination Network: A Neuro Framework for Multimodal Concept Acquisition and Binding
+Adaptive Learning Control for Nonlinear Systems With Randomly Varying Iteration Lengths
+Flexible Affinity Matrix Learning for Unsupervised and Semisupervised Classification
+Fast Inference Predictive Coding: A Novel Model for Constructing Deep Neural Networks
+Nonlinear Dimensionality Reduction With Missing Data Using Parametric Multiple Imputations
+Domain Adaption via Feature Selection on Explicit Feature Map
+Universal Approximation Capability of Broad Learning System and Its Structural Variations
+Dualityfree Methods for Stochastic Composition Optimization
+Event-Based Line Fitting and Segment Detection Using a Neuromorphic Visual Sensor
+SEFRON: A New Spiking Neuron Model With Time-Varying Synaptic Efficacy Function for Pattern Classification
+Bounded Neural Network Control for Target Tracking of Underactuated Autonomous Surface Vehicles in the Presence of Uncertain Target Dynamics
+Category-Based Deep CCA for Fine-Grained Venue Discovery From Multimodal Data
+Markov Boundary-Based Outlier Mining
+Spectral Embedded Adaptive Neighbors Clustering
+Approximation of Ensemble Boundary Using Spectral Coefficients
+Developmental Resonance Network
+NullHop: A Flexible Convolutional Neural Network Accelerator Based on Sparse Representations of Feature Maps
+Robust Dimension Reduction for Clustering With Local Adaptive Learning
+Learning of a Decision-Maker’s Preference Zone With an Evolutionary Approach
+Fine-Grained Image Classification Using Modified DCNNs Trained by Cascaded Softmax and Generalized Large-Margin Losses
+Distributed Generalized Nash Equilibrium Seeking Algorithm Design for Aggregative Games Over Weight-Balanced Digraphs
+DBSDA: Lowering the Bound of Misclassification Rate for Sparse Linear Discriminant Analysis via Model Debiasing
+Modulation Classification Based on Signal Constellation Diagrams and Deep Learning
+ICFS Clustering With Multiple Representatives for Large Data
+Exponential Stabilization of Fuzzy Memristive Neural Networks With Hybrid Unbounded Time-Varying Delays
+A Fused CP Factorization Method for Incomplete Tensors
+Indefinite Kernel Logistic Regression With Concave-Inexact-Convex Procedure
+Robot Learning System Based on Adaptive Neural Control and Dynamic Movement Primitives
+Discriminative Feature Selection via Employing Smooth and Robust Hinge Loss
+A Fast and Accurate Matrix Completion Method Based on QR Decomposition and L2,1 Norm Minimization
+Local Restricted Convolutional Neural Network for Change Detection in Polarimetric SAR Images
+Cost-Effective Object Detection: Active Sample Mining With Switchable Selection Criteria
+Multiview Subspace Clustering via Tensorial t-Product Representation
+Exploring Self-Repair in a Coupled Spiking Astrocyte Neural Network
+Fast and Accurate Hierarchical Clustering Based on Growing Multilayer Topology Training
+General Square-Pattern Discretization Formulas via Second-Order Derivative Elimination for Zeroing Neural Network Illustrated by Future Optimization
+Optimal Control of Propagating Fronts by Using Level Set Methods and Neural Approximations
+Robust Stabilization of Delayed Neural Networks: Dissipativity-Learning Approach
+Asymptotically Optimal Contextual Bandit Algorithm Using Hierarchical Structures
+Adaptive Optimal Output Regulation of Time-Delay Systems via Measurement Feedback
+Unsupervised Knowledge Transfer Using Similarity Embeddings
+Synchronization of Coupled Markovian Reaction–Diffusion Neural Networks With Proportional Delays Via Quantized Control
+Stepsize Range and Optimal Value for Taylor–Zhang Discretization Formula Applied to Zeroing Neurodynamics Illustrated via Future Equality-Constrained Quadratic Programming
+fpgaConvNet: Mapping Regular and Irregular Convolutional Neural Networks on FPGAs
+A Novel Neural Networks Ensemble Approach for Modeling Electrochemical Cells
+Exploring Correlations Among Tasks, Clusters, and Features for Multitask Clustering
+Scaling Up Kernel SVM on Limited Resources: A Low-Rank Linearization Approach
+Optimized Neural Network Parameters Using Stochastic Fractal Technique to Compensate Kalman Filter for Power System-Tracking-State Estimation
+Online Identification of Nonlinear Stochastic Spatiotemporal System With Multiplicative Noise by Robust Optimal Control-Based Kernel Learning Method
+Semisupervised Learning With Parameter-Free Similarity of Label and Side Information
+H-infinity State Estimation for Discrete-Time Nonlinear Singularly Perturbed Complex Networks Under the Round-Robin Protocol
+Temporal Self-Organization: A Reaction–Diffusion Framework for Spatiotemporal Memories
+Variational Bayesian Learning for Dirichlet Process Mixture of Inverted Dirichlet Distributions in Non-Gaussian Image Feature Modeling
+Hierarchical Decision and Control for Continuous Multitarget Problem: Policy Evaluation With Action Delay
+Unified Low-Rank Matrix Estimate via Penalized Matrix Least Squares Approximation
+Online Active Learning Ensemble Framework for Drifted Data Streams
+A New Approach to Stochastic Stability of Markovian Neural Networks With Generalized Transition Rates
+Optimization of Distributions Differences for Classification
+Deep Convolutional Identifier for Dynamic Modeling and Adaptive Control of Unmanned Helicopter
+Neural-Response-Based Extreme Learning Machine for Image Classification
+Deep Ensemble Machine for Video Classification
+Multiple ψ-Type Stability of Cohen–Grossberg Neural Networks With Both Time-Varying Discrete Delays and Distributed Delays
+Neural Network Training With Levenberg–Marquardt and Adaptable Weight Compression
+Solving Partial Least Squares Regression via Manifold Optimization Approaches
+Dendritic Neuron Model With Effective Learning Algorithms for Classification, Approximation, and Prediction
+Multiclass Nonnegative Matrix Factorization for Comprehensive Feature Pattern Discovery
+Self-Paced Learning-Based Probability Subspace Projection for Hyperspectral Image Classification
+Hierarchical Stability Conditions for a Class of Generalized Neural Networks With Multiple Discrete and Distributed Delays
+Editorial: Booming of Neural Networks and Learning Systems
+Deep CNN-Based Blind Image Quality Predictor
+Neuro-Adaptive Control With Given Performance Specifications for Strict Feedback Systems Under Full-State Constraints
+Consensus Problems Over Cooperation-Competition Random Switching Networks With Noisy Channels
+Estimation of Graphlet Counts in Massive Networks
+Finite-Time Passivity-Based Stability Criteria for Delayed Discrete-Time Neural Networks via New Weighted Summation Inequalities
+Multiple-Model Adaptive Estimation for 3-D and 4-D Signals: A Widely Linear Quaternion Approach
+Optimal Synchronization Control of Multiagent Systems With Input Saturation via Off-Policy Reinforcement Learning
+Design and Adaptive Control for an Upper Limb Robotic Exoskeleton in Presence of Input Saturation
+A Cost-Sensitive Deep Belief Network for Imbalanced Classification
+A Highly Effective and Robust Membrane Potential-Driven Supervised Learning Method for Spiking Neurons
+Enhanced Robot Speech Recognition Using Biomimetic Binaural Sound Source Localization
+A Discrete-Time Projection Neural Network for Sparse Signal Reconstruction With Application to Face Recognition
+Domain-Weighted Majority Voting for Crowdsourcing
+Reconstructible Nonlinear Dimensionality Reduction via Joint Dictionary Learning
+On the Duality Between Belief Networks and Feed-Forward Neural Networks
+Exploiting Combination Effect for Unsupervised Feature Selection by L2,0 Norm
+Leader-Following Practical Cluster Synchronization for Networks of Generic Linear Systems: An Event-Based Approach
+Semisupervised Learning Based on a Novel Iterative Optimization Model for Saliency Detection
+Augmented Real-Valued Time-Delay Neural Network for Compensation of Distortions and Impairments in Wireless Transmitters
+UCFTS: A Unilateral Coupling Finite-Time Synchronization Scheme for Complex Networks
+A Semisupervised Classification Approach for Multidomain Networks With Domain Selection
+Neurons With Paraboloid Decision Boundaries for Improved Neural Network Classification Performance
+Adaptive Reinforcement Learning Control Based on Neural Approximation for Nonlinear Discrete-Time Systems With Unknown Nonaffine Dead-Zone Input
+Filippov Hindmarsh–Rose Neuronal Model With Threshold Policy Control
+Blind Denoising Autoencoder
+Variational Random Function Model for Network Modeling
+Global Bandits
+An Event-Triggered Pinning Control Approach to Synchronization of Discrete-Time Stochastic Complex Dynamical Networks
+Sparse Temporal Encoding of Visual Features for Robust Object Recognition by Spiking Neurons
+Learning to Map Social Network Users by Unified Manifold Alignment on Hypergraph
+Sensitive Finite-State Computations Using a Distributed Network With a Noisy Network Attractor
+Adaptive Neural Tracking Control of Switched Stochastic Pure-Feedback Nonlinear Systems With Unknown Bouc–Wen Hysteresis Input
+A Locally Weighted Project Regression Approach-Aided Nonlinear Constrained Tracking Control
+Classification and Recall With Binary Hyperdimensional Computing: Tradeoffs in Choice of Density and Mapping Characteristics
+Actor-Critic Learning Control Based on L2-Regularized Temporal-Difference Prediction With Gradient Correction
+Image-Text Surgery: Efficient Concept Learning in Image Captioning by Generating Pseudopairs
+Runtime Programmable and Memory Bandwidth Optimized FPGA-Based Coprocessor for Deep Convolutional Neural Network
+Robust Regression Estimation Based on Low-Dimensional Recurrent Neural Networks
+Beyond Bilinear: Generalized Multimodal Factorized High-Order Pooling for Visual Question Answering
+Weakly Supervised Object Detection via Object-Specific Pixel Gradient
+Computationally Efficient Data-Driven Higher Order Optimal Iterative Learning Control
+Low-Complexity Approximate Convolutional Neural Networks
+Neural-Learning-Based Control for a Constrained Robotic Manipulator With Flexible Joints
+Learning and Guaranteed Cost Control With Event-Based Adaptive Critic Implementation
+Practical Time-Varying Formation Tracking for Second-Order Nonlinear Multiagent Systems With Multiple Leaders Using Adaptive Neural Networks
+A Three-Layered Mutually Reinforced Model for Personalized Citation Recommendation
+Contrast-Oriented Deep Neural Networks for Salient Object Detection
+Decentralized Global Optimization Based on a Growth Transform Dynamical System Model
+Dynamical and Static Multisynchronization of Coupled Multistable Neural Networks via Impulsive Control
+Rank-Constrained Spectral Clustering With Flexible Embedding
+Unified Simultaneous Clustering and Feature Selection for Unlabeled and Labeled Data
+SyMIL: MinMax Latent SVM for Weakly Labeled Data
+Neural-Dynamic Optimization-Based Model Predictive Control for Tracking and Formation of Nonholonomic Multirobot Systems
+Kurtosis-Based CRTRL Algorithms for Fully Connected Recurrent Neural Networks
+Behavioral Learning in a Cognitive Neuromorphic Robot: An Integrative Approach
+Exclusive Sparsity Norm Minimization With Random Groups via Cone Projection
+Discriminative Deep Quantization Hashing for Face Image Retrieval
+Postboosting Using Extended G-Mean for Online Sequential Multiclass Imbalance Learning
+First-Spike-Based Visual Categorization Using Reward-Modulated STDP
+Transfer Hashing: From Shallow to Deep
+Learning-Based Predictive Control for Discrete-Time Nonlinear Systems With Stochastic Disturbances
+Radial Basis Functions With Adaptive Input and Composite Trend Representation for Portfolio Selection
+Neural Network-Based Model-Free Adaptive Near-Optimal Tracking Control for a Class of Nonlinear Systems
+Adaptive Neural Control of Pure-Feedback Nonlinear Systems With Event-Triggered Communications
+A New Correntropy-Based Conjugate Gradient Backpropagation Algorithm for Improving Training in Neural Networks
+Optimizing Top-k Multiclass SVM via Semismooth Newton Algorithm
+Incomplete-Data Oriented Multiview Dimension Reduction via Sparse Low-Rank Representation
+Adaptive Human–Machine Interactive Behavior Analysis With Wrist-Worn Devices for Password Inference
+Adaptive Asymptotic Neural Network Control of Nonlinear Systems With Unknown Actuator Quantization
+Feature Selection Based on the Neighborhood Entropy
+Dynamic Affinity Graph Construction for Spectral Clustering Using Multiple Features
+Mining Markov Blankets Without Causal Sufficiency
+Pairwise Constraint Propagation-Induced Symmetric Nonnegative Matrix Factorization
+Local Adaptive Projection Framework for Feature Selection of Labeled and Unlabeled Data
+Exponential Stability Analysis for Delayed Semi-Markovian Recurrent Neural Networks: A Homogeneous Polynomial Approach
+Quantized Sampled-Data Control for Synchronization of Inertial Neural Networks With Heterogeneous Time-Varying Delays
+Simultaneous Spectral Data Embedding and Clustering
+Observability of Boolean Control Networks Using Parallel Extension and Set Reachability
+Metric Learning-Guided Least Squares Classifier Learning
+Stability of Singular Discrete-Time Neural Networks With State-Dependent Coefficients and Run-to-Run Control Strategies
+Hierarchical Deep Reinforcement Learning for Continuous Action Control
+F-SVM: Combination of Feature Transformation and SVM Learning via Convex Relaxation
+Adaptive Neural Dynamic Surface Control for Nonstrict-Feedback Systems With Output Dead Zone
+Fuzzy Neural Network Control of a Flexible Robotic Manipulator Using Assumed Mode Method
+Approximate Low-Rank Projection Learning for Feature Extraction
+Theoretical Study of Oscillator Neurons in Recurrent Neural Networks
+Integrating Space, Time, and Orientation in Spiking Neural Networks: A Case Study on Multimodal Brain Data Modeling
+Exploring Auxiliary Context: Discrete Semantic Transfer Hashing for Scalable Image Retrieval
+Sequential Outlier Criterion for Sparsification of Online Adaptive Filtering
+Shared Predictive Cross-Modal Deep Quantization
+Tree2Vector: Learning a Vectorial Representation for Tree-Structured Data
+Admissible Delay Upper Bounds for Global Asymptotic Stability of Neural Networks With Time-Varying Delays
+Nonparametric Bayesian Correlated Group Regression With Applications to Image Classification
+Deep Hyperspectral Image Sharpening
+Biologically Inspired Intensity and Depth Image Edge Extraction
+Semisupervised Negative Correlation Learning
+A Generalized Model for Robust Tensor Factorization With Noise Modeling by Mixture of Gaussians
+A Supervised Learning Algorithm for Learning Precise Timing of Multiple Spikes in Multilayer Spiking Neural Networks
+Learning Rates of Regularized Regression With Multiple Gaussian Kernels for Multi-Task Learning
+A Neural Controller for Image-Based Visual Servoing of Manipulators With Physical Constraints
+Multistability Analysis of Quaternion-Valued Neural Networks With Time Delays
+Recursive Neural Networks for Density Estimation Over Generalized Random Graphs
+Efficient Reinforcement Learning via Probabilistic Trajectory Optimization
+Deep Cascade Learning
+Event-Triggered Cooperative Global Robust Practical Output Regulation for Second-Order Uncertain Nonlinear Multiagent Systems
+Complex Gaussian Processes for Regression
+A Game-Theoretic Approach to Design Secure and Resilient Distributed Support Vector Machines
+Optimizing Kernel Machines Using Deep Learning
+Multiview Clustering via Unified and View-Specific Embeddings Learning
+Adaptive Neural Control for Robotic Manipulators With Output Constraints and Uncertainties
+An Online Minimax Optimal Algorithm for Adversarial Multiarmed Bandit Problem
+A Block EM Algorithm for Multivariate Skew Normal and Skew t-Mixture Models
+Concept Drift and Anomaly Detection in Graph Streams
+Reduced-Order Filtering of Delayed Static Neural Networks With Markovian Jumping Parameters
+Learning Temporal Information for Brain-Computer Interface Using Convolutional Neural Networks
+A Unifying Objective Function of Independent Component Analysis for Ordering Sources by Non-Gaussianity
+Latent Topic Text Representation Learning on Statistical Manifolds
+Collaborative Deconvolutional Neural Networks for Joint Depth Estimation and Semantic Segmentation
+Efficient Cluster-Based Boosting for Semisupervised Classification
+Adaptive Critic Design for Pure-Feedback Discrete-Time MIMO Systems Preceded by Unknown Backlashlike Hysteresis
+Synchronization of Nonlinearly and Stochastically Coupled Markovian Switching Networks via Event-Triggered Sampling
+A Comprehensive Look at Coding Techniques on Riemannian Manifolds
+Adaptive Learning-Based k-Nearest Neighbor Classifiers With Resilience to Class Imbalance
+Swarming Behavior of Multiple Euler–Lagrange Systems With Cooperation–Competition Interactions: An Auxiliary System Approach
+A Collaborative Neurodynamic Approach to Multiobjective Optimization
+Matrix Factorization From a Few Dominators
+Improved Stability Criterion for Recurrent Neural Networks With Time-Varying Delays
+Unification of MAP Estimation and Marginal Inference in Recurrent Neural Networks
+New Discrete-Time ZNN Models for Least-Squares Solution of Dynamic Linear Equation System With Time-Varying Rank-Deficient Coefficient
+Output Reachable Set Estimation and Verification for Multilayer Neural Networks
+Ristretto: A Framework for Empirical Study of Resource-Efficient Inference in Convolutional Neural Networks
+A Weightedly Uniform Detectability for Sensor Networks
+Deep Learning in Microscopy Image Analysis: A Survey
+Early Classification of Time Series by Simultaneously Optimizing the Accuracy and Earliness
+Vectorial Dimension Reduction for Tensors Based on Bayesian Inference
+An Algorithm for Clustering Categorical Data With Set-Valued Features
+Tracking Control for Linear Discrete-Time Networked Control Systems With Unknown Dynamics and Dropout
+Parallelized Tensor Train Learning of Polynomial Classifiers
+Spoofing Detection in Automatic Speaker Verification Systems Using DNN Classifiers and Dynamic Acoustic Features
+Marginal Representation Learning With Graph Structure Self-Adaptation
+Learning With Kernels: A Local Rademacher Complexity-Based Analysis With Application to Graph Kernels
+Complete Stability Analysis With Respect to Delay for Neural Networks
+Probabilistic Guaranteed Gradient Learning-Based Spark Advance Self-Optimizing Control for Spark-Ignited Engines
+Brain-Inspired Wireless Communications: Where Reservoir Computing Meets MIMO-OFDM
+GCRNN: Group-Constrained Convolutional Recurrent Neural Network
+Reinforcement Learning-Based Differential Evolution With Cooperative Coevolution for a Compensatory Neuro-Fuzzy Controller
+Quantized CNN: A Unified Approach to Accelerate and Compress Convolutional Networks
+Rank-One Matrix Completion With Automatic Rank Estimation via L1-Norm Regularization
+Incremental Design of Simplex Basis Function Model for Dynamic System Identification
+Robust Object Tracking by Nonlinear Learning
+High-Performance Mixed-Signal Neurocomputing With Nanoscale Floating-Gate Memory Cell Arrays
+Modified Primal-Dual Neural Networks for Motion Control of Redundant Manipulators With Dynamic Rejection of Harmonic Noises
+A Systematic Study of Online Class Imbalance Learning With Concept Drift
+Concept Drift Adaptation by Exploiting Historical Knowledge
+Multiview Spectral Clustering via Structured Low-Rank Matrix Factorization
+Cross-Modal Metric Learning for AUC Optimization
+Modeling of Agent Cognition in Extensive Games via Artificial Neural Networks
+An Adaptive Self-Stabilizing Algorithm for Minor Generalized Eigenvector Extraction and Its Convergence Analysis
+Local Regression and Global Information-Embedded Dimension Reduction
+A Two-Layer Mixture Model of Gaussian Process Functional Regressions and Its MCMC EM Algorithm
+Sparse Simultaneous Recurrent Deep Learning for Robust Facial Expression Recognition
+Motivated Optimal Developmental Learning for Sequential Tasks Without Using Rigid Time-Discounts
+Generative Kernels for Tree-Structured Data
+Stochastic Training of Neural Networks via Successive Convex Approximations
+Modified Sparse Linear-Discriminant Analysis via Nonconvex Penalties
+Feature Selection With L2,1−2 Regularization
+Frame-Based Variational Bayesian Learning for Independent or Dependent Source Separation
+Matrix-Regularized Multiple Kernel Learning via (r, p) Norms
+On the Generalization Ability of Online Gradient Descent Algorithm Under the Quadratic Growth Condition
+Containment Control of Linear Multiagent Systems With Aperiodic Sampling and Measurement Size Reduction
+Spatial and Temporal Downsampling in Event-Based Visual Classification
+Event-Triggered Stabilization of Neural Networks With Time-Varying Switching Gains and Input Saturation
+Efficient Unsupervised Parameter Estimation for One-Class Support Vector Machines
+SGD-Based Adaptive NN Control Design for Uncertain Nonlinear Systems
+Sequential Independent Component Analysis Density Estimation
+Experimental Study of Artificial Neural Networks Using a Digital Memristor Simulator
+Nonfragile State Estimation of Quantized Complex Networks With Switching Topologies
+Permutation Jaccard Distance-Based Hierarchical Clustering to Estimate EEG Network Density Modifications in MCI Subjects
+Progressive Stochastic Learning for Noisy Labels
+Remote Estimator Design for Time-Delay Neural Networks Using Communication State Information
+Online Training of LSTM Networks in Distributed Systems for Variable Length Data Sequences
+Learning From Multiple Imperfect Instructors in Sensor Networks
+Continuous Dropout
+Deep Manifold Learning Combined With Convolutional Neural Networks for Action Recognition
+AdOn HDP-HMM: An Adaptive Online Model for Segmentation and Classification of Sequential Data
+Deep Learning of Constrained Autoencoders for Enhanced Understanding of Data
+Learning Methods for Dynamic Topic Modeling in Automated Behavior Analysis
+Support Vector Data Descriptions and k-Means Clustering: One Class?
+Data-Driven Robust M-LS-SVR-Based NARX Modeling for Estimation and Control of Molten Iron Quality Indices in Blast Furnace Ironmaking
+Detection of Sources in Non-Negative Blind Source Separation by Minimum Description Length Criterion
+Nonparametric Coupled Bayesian Dictionary and Classifier Learning for Hyperspectral Classification
+Heterogeneous Multitask Metric Learning Across Multiple Domains
+Classification of Imbalanced Data by Oversampling in Kernel Space of Support Vector Machines
+A Novel Error-Compensation Control for a Class of High-Order Nonlinear Systems With Input Delay
+Dimensionality Reduction in Multiple Ordinal Regression
+A Deep Machine Learning Method for Classifying Cyclic Time Series of Biological Signals Using Time-Growing Neural Network
+Transductive Zero-Shot Learning With Adaptive Structural Embedding
+Bayesian Nonparametric Regression Modeling of Panel Data for Sequential Classification
+Symmetric Predictive Estimator for Biologically Plausible Neural Learning
+A Distance-Based Weighted Undersampling Scheme for Support Vector Machines and its Application to Imbalanced Classification
+Learning With Coefficient-Based Regularized Regression on Markov Resampling
+Sequential Labeling With Structural SVM Under Nondecomposable Losses
+The Stability of Stochastic Coupled Systems With Time-Varying Coupling and General Topology Structure
+Stability Analysis of Quaternion-Valued Neural Networks: Decomposition and Direct Approaches
+On Wang k WTA With Input Noise, Output Node Stochastic, and Recurrent State Noise
+Event-Driven Stereo Visual Tracking Algorithm to Solve Object Occlusion
+Stability Analysis of Neural Networks With Time-Varying Delay by Constructing Novel Lyapunov Functionals
+Design, Analysis, and Representation of Novel Five-Step DTZD Algorithm for Time-Varying Nonlinear Optimization
+Neural Observer and Adaptive Neural Control Design for a Class of Nonlinear Systems
+Shared Autoencoder Gaussian Process Latent Variable Model for Visual Classification
+Online Supervised Learning for Hardware-Based Multilayer Spiking Neural Networks Through the Modulation of Weight-Dependent Spike-Timing-Dependent Plasticity
+Neural-Network-Based Adaptive Backstepping Control With Application to Spacecraft Attitude Regulation
+Recursive Adaptive Sparse Exponential Functional Link Neural Network for Nonlinear AEC in Impulsive Noise Environment
+Multilabel Prediction via Cross-View Search
+Large-Scale Metric Learning: A Voyage From Shallow to Deep
+Distributed Event-Triggered Adaptive Control for Cooperative Output Regulation of Heterogeneous Multiagent Systems Under Switching Topology
+Event-Based Adaptive NN Tracking Control of Nonlinear Discrete-Time Systems
+Dynamic Analysis of Hybrid Impulsive Delayed Neural Networks With Uncertainties
+Robust Zeroing Neural-Dynamics and Its Time-Varying Disturbances Suppression Model Applied to Mobile Robot Manipulators
+Multiple-Instance Ordinal Regression
+Neuroadaptive Control With Given Performance Specifications for MIMO Strict-Feedback Systems Under Nonsmooth Actuation and Output Constraints
+Lagrangean-Based Combinatorial Optimization for Large-Scale S3VMs
+Adaptive Fault-Tolerant Control for Nonlinear Systems With Multiple Sensor Faults and Unknown Control Directions
+Design of Distributed Observers in the Presence of Arbitrarily Large Communication Delays
+A Solution Path Algorithm for General Parametric Quadratic Programming Problem
+Online Density Estimation of Nonstationary Sources Using Exponential Family of Distributions
+Image-Specific Classification With Local and Global Discriminations
+Global Asymptotic Stability for Delayed Neural Networks Using an Integral Inequality Based on Nonorthogonal Polynomials
+L1-Norm Distance Minimization-Based Fast Robust Twin Support Vector k-Plane Clustering
+Extensions to Online Feature Selection Using Bagging and Boosting
+On Adaptive Boosting for System Identification
+Universal Approximation by Using the Correntropy Objective Function
+Stability Analysis of Optimal Adaptive Control Under Value Iteration Using a Stabilizing Initial Policy
+Object Categorization Using Class-Specific Representations
+Improved Stability Analysis for Delayed Neural Networks
+Connectivity-Preserving Consensus Tracking of Uncertain Nonlinear Strict-Feedback Multiagent Systems: An Error Transformation Approach
+Driving Under the Influence (of Language)
+Cascaded Subpatch Networks for Effective CNNs
+Neighborhood-Based Stopping Criterion for Contrastive Divergence
+Neural AILC for Error Tracking Against Arbitrary Initial Shifts
+RankMap: A Framework for Distributed Learning From Dense Data Sets
+Manifold Preserving: An Intrinsic Approach for Semisupervised Distance Metric Learning
+Transductive Regression for Data With Latent Dependence Structure
+Variance-Constrained State Estimation for Complex Networks With Randomly Varying Topologies
+Stability Analysis of Continuous-Time and Discrete-Time Quaternion-Valued Neural Networks With Linear Threshold Neurons
+Improving Sparsity and Scalability in Regularized Nonconvex Truncated-Loss Learning Problems
+Policy Approximation in Policy Iteration Approximate Dynamic Programming for Discrete-Time Nonlinear Systems
+Multilateral Telecoordinated Control of Multiple Robots With Uncertain Kinematics
+A Peak Price Tracking-Based Learning System for Portfolio Selection
+Generalized Self-Organizing Maps for Automatic Determination of the Number of Clusters and Their Multiprototypes in Cluster Analysis
+Event-Triggered Distributed Approximate Optimal State and Output Control of Affine Nonlinear Interconnected Systems
+Online Feature Transformation Learning for Cross-Domain Object Category Recognition
+Improving CNN Performance Accuracies With Min–Max Objective
+Distribution-Preserving Stratified Sampling for Learning Problems
+Training DCNN by Combining Max-Margin, Max-Correlation Objectives, and Correntropy Loss for Multilabel Image Classification
+Robust Least-Squares Support Vector Machine With Minimization of Mean and Variance of Modeling Error
+Joint Attributes and Event Analysis for Multimedia Event Detection
+Aggregation Analysis for Competitive Multiagent Systems With Saddle Points via Switching Strategies
+Learning Multimodal Parameters: A Bare-Bones Niching Differential Evolution Approach
+Time-Varying System Identification Using an Ultra-Orthogonal Forward Regression and Multiwavelet Basis Functions With Applications to EEG
+Neural Decomposition of Time-Series Data for Effective Generalization
+Feature Selection Based on Neighborhood Discrimination Index
+Multistability of Recurrent Neural Networks With Nonmonotonic Activation Functions and Unbounded Time-Varying Delays
+Optimal Triggering of Networked Control Systems
+Observer-Based Adaptive Fault-Tolerant Tracking Control of Nonlinear Nonstrict-Feedback Systems
+Joint Estimation of Multiple Conditional Gaussian Graphical Models
+Stability Analysis of Genetic Regulatory Networks With Switching Parameters and Time Delays
+Adaptive Neural Networks Prescribed Performance Control Design for Switched Interconnected Uncertain Nonlinear Systems
+Robust and Efficient Boosting Method Using the Conditional Risk
+Learning Deep Generative Models With Doubly Stochastic Gradient MCMC
+Discriminative Transfer Learning Using Similarities and Dissimilarities
+Discriminative Block-Diagonal Representation Learning for Image Recognition
+Robustness to Training Disturbances in SpikeProp Learning
+Bayesian Neighborhood Component Analysis
+p th Moment Exponential Input-to-State Stability of Delayed Recurrent Neural Networks With Markovian Switching via Vector Lyapunov Function
+Distributed Adaptive Finite-Time Approach for Formation–Containment Control of Networked Nonlinear Systems Under Directed Topology
+DANoC: An Efficient Algorithm and Hardware Codesign of Deep Neural Networks on Chip
+Causal Inference on Multidimensional Data Using Free Probability Theory
+Regularized Semipaired Kernel CCA for Domain Adaptation
+Patch Alignment Manifold Matting
+Supervised Learning Based on Temporal Coding in Spiking Neural Networks
+Multiple Structure-View Learning for Graph Classification
+Online Heterogeneous Transfer by Hedge Ensemble of Offline and Online Decisions
+Single-Input Pinning Controller Design for Reachability of Boolean Networks
+Tree-Based Kernel for Graphs With Continuous Attributes
+Sufficient Condition for the Existence of the Compact Set in the RBF Neural Network Control
+Delayed Feedback Control for Stabilization of Boolean Control Networks With State Delay
+Convolutional Sparse Autoencoders for Image Classification
+An Algorithm for Finding the Most Similar Given Sized Subgraphs in Two Weighted Graphs
+Normalization and Solvability of Dynamic-Algebraic Boolean Networks
+Special Issue on Deep Reinforcement Learning and Adaptive Dynamic Programming
+Optimal and Autonomous Control Using Reinforcement Learning: A Survey
+Applications of Deep Learning and Reinforcement Learning to Biological Data
+Guided Policy Exploration for Markov Decision Processes Using an Uncertainty-Based Value-of-Information Criterion
+Adaptive Constrained Optimal Control Design for Data-Based Nonlinear Discrete-Time Systems With Critic-Only Structure
+Optimal Guaranteed Cost Sliding Mode Control for Constrained-Input Nonlinear Systems With Matched and Unmatched Disturbances
+Robust ADP Design for Continuous-Time Nonlinear Systems With Output Constraints
+Leader–Follower Output Synchronization of Linear Heterogeneous Systems With Active Leader Using Reinforcement Learning
+Approximate Dynamic Programming: Combining Regional and Local State Following Approximations
+Suboptimal Scheduling in Switched Systems With Continuous-Time Dynamics: A Least Squares Approach
+Optimal Fault-Tolerant Control for Discrete-Time Nonlinear Strict-Feedback Systems Based on Adaptive Critic Design
+Distributed Economic Dispatch in Microgrids Based on Cooperative Reinforcement Learning
+Reusable Reinforcement Learning via Shallow Trails
+Self-Paced Prioritized Curriculum Learning With Coverage Penalty in Deep Reinforcement Learning
+Multisource Transfer Double DQN Based on Actor Learning
+Action-Driven Visual Object Tracking With Deep Reinforcement Learning
+Extreme Trust Region Policy Optimization for Active Object Recognition
+Learning to Predict Consequences as a Method of Knowledge Transfer in Reinforcement Learning
+A Discrete-Time Recurrent Neural Network for Solving Rank-Deficient Matrix Equations With an Application to Output Regulation of Linear Systems
+Online Learning Algorithm Based on Adaptive Control Theory
+User Preference-Based Dual-Memory Neural Model With Memory Consolidation Approach
+Online Hashing
+GoDec+: Fast and Robust Low-Rank Matrix Decomposition Based on Maximum Correntropy
+A Parallel Multiclassification Algorithm for Big Data Using an Extreme Learning Machine
+Nonlinear Decoupling Control With ANFIS-Based Unmodeled Dynamics Compensation for a Class of Complex Industrial Processes
+Online Learning Algorithms Can Converge Comparably Fast as Batch Learning
+Spiking, Bursting, and Population Dynamics in a Network of Growth Transform Neurons
+Uncertain Data Clustering in Distributed Peer-to-Peer Networks
+Distributed Optimal Consensus Over Resource Allocation Network and Its Application to Dynamical Economic Dispatch
+Distributed Adaptive Containment Control for a Class of Nonlinear Multiagent Systems With Input Quantization
+Data-Driven Learning Control for Stochastic Nonlinear Systems: Multiple Communication Constraints and Limited Storage
+Reversed Spectral Hashing
+Structure Learning for Deep Neural Networks Based on Multiobjective Optimization
+On the Dynamics of Hopfield Neural Networks on Unit Quaternions
+End-to-End Feature-Aware Label Space Encoding for Multilabel Classification With Many Classes
+Improved Stability and Stabilization Results for Stochastic Synchronization of Continuous-Time Semi-Markovian Jump Neural Networks With Time-Varying Delay
+Robust Latent Subspace Learning for Image Classification
+New Splitting Criteria for Decision Trees in Stationary Data Streams
+A Sequential Learning Approach for Scaling Up Filter-Based Feature Subset Selection
+Substructural Regularization With Data-Sensitive Granularity for Sequence Transfer Learning
+Exponential Synchronization of Networked Chaotic Delayed Neural Network by a Hybrid Event Trigger Scheme
+Multiclass Learning With Partially Corrupted Labels
+Boundary-Eliminated Pseudoinverse Linear Discriminant for Imbalanced Problems
+An Information-Theoretic-Cluster Visualization for Self-Organizing Maps
+Learning-Based Adaptive Optimal Tracking Control of Strict-Feedback Nonlinear Systems
+On the Impact of Regularization Variation on Localized Multiple Kernel Learning
+Structured Learning of Tree Potentials in CRF for Image Segmentation
+Adaptive Backstepping-Based Neural Tracking Control for MIMO Nonlinear Switched Systems Subject to Input Delays
+Memcomputing Numerical Inversion With Self-Organizing Logic Gates
+Graph Regularized Restricted Boltzmann Machine
+A Self-Paced Regularization Framework for Multilabel Learning
+Logistic Localized Modeling of the Sample Space for Feature Selection and Classification
+Manifold Warp Segmentation of Human Action
+Computational Model Based on Neural Network of Visual Cortex for Human Action Recognition
+DeepX: Deep Learning Accelerator for Restricted Boltzmann Machine Artificial Neural Networks
+Preconditioned Stochastic Gradient Descent
+Global H_infty Pinning Synchronization of Complex Networks With Sampled-Data Communications
+Robust Finite-Time Stabilization of Fractional-Order Neural Networks With Discontinuous and Continuous Activation Functions Under Uncertainty
+Stability Analysis and Application for Delayed Neural Networks Driven by Fractional Brownian Noise
+Discriminative Sparse Neighbor Approximation for Imbalanced Learning
+Data-Driven Multiagent Systems Consensus Tracking Using Model Free Adaptive Control
+Reinforced Robust Principal Component Pursuit
+Adaptive Boundary Iterative Learning Control for an Euler–Bernoulli Beam System With Input Constraint
+Synchronization of Coupled Reaction–Diffusion Neural Networks With Directed Topology via an Adaptive Approach
+Solving Multiextremal Problems by Using Recurrent Neural Networks
+Multitarget Sparse Latent Regression
+Convolution in Convolution for Network in Network
+Application of LMS-Based NN Structure for Power Quality Enhancement in a Distribution Network Under Abnormal Conditions
+A Confident Information First Principle for Parameter Reduction and Model Selection of Boltzmann Machines
+AnRAD: A Neuromorphic Anomaly Detection Framework for Massive Concurrent Data Streams
+Dynamic Uncertain Causality Graph for Knowledge Representation and Reasoning: Utilization of Statistical Data and Domain Knowledge in Complex Cases
+Recurrent Neural Networks With Auxiliary Memory Units
+Random Forest Classifier for Zero-Shot Learning Based on Relative Attribute
+Improving Crowdsourced Label Quality Using Noise Correction
+Hyperbolic Gradient Operator and Hyperbolic Back-Propagation Learning Algorithms
+Autonomous Data Collection Using a Self-Organizing Map
+A Preference-Based Multiobjective Evolutionary Approach for Sparse Optimization
+Asynchronous State Estimation for Discrete-Time Switched Complex Networks With Communication Constraints
+Cluster Synchronization for Interacting Clusters of Nonidentical Nodes via Intermittent Pinning Control
+SCE: A Manifold Regularized Set-Covering Method for Data Partitioning
+Efficient kNN Classification With Different Numbers of Nearest Neighbors
+Manifold Regularized Correlation Object Tracking
+Bioinspired Approach to Modeling Retinal Ganglion Cells Using System Identification Techniques
+Synchronization Criteria for Discontinuous Neural Networks With Mixed Delays via Functional Differential Inclusions
+New Conditions for Global Asymptotic Stability of Memristor Neural Networks
+Doubly Nonparametric Sparse Nonnegative Matrix Factorization Based on Dependent Indian Buffet Processes
+Event-Sampled Direct Adaptive NN Output- and State-Feedback Control of Uncertain Strict-Feedback System
+Modeling and Analysis of Beta Oscillations in the Basal Ganglia
+Safe Screening Rules for Accelerating Twin Support Vector Machine Classification
+Dissipativity-Based Resilient Filtering of Periodic Markovian Jump Neural Networks With Quantized Measurements
+Singularities of Three-Layered Complex-Valued Neural Networks With Split Activation Function
+A Novel Recurrent Neural Network for Manipulator Control With Improved Noise Tolerance
+Sensitivity Analysis for Probabilistic Neural Network Structure Reduction
+Observer-Based Robust Coordinated Control of Multiagent Systems With Input Saturation
+Robust Structured Nonnegative Matrix Factorization for Image Representation
+Extended Polynomial Growth Transforms for Design and Training of Generalized Support Vector Machines
+On Better Exploring and Exploiting Task Relationships in Multitask Learning: Joint Model and Feature Learning
+Robust Multiview Data Analysis Through Collective Low-Rank Subspace
+Tensor-Factorized Neural Networks
+A Novel Pruning Algorithm for Smoothing Feedforward Neural Networks Based on Group Lasso Method
+Classification With Truncated L1 Distance Kernel
+Policy Iteration Algorithm for Optimal Control of Stochastic Logical Dynamical Systems
+Multicolumn RBF Network
+A Regularized SNPOM for Stable Parameter Estimation of RBF-AR(X) Model
+A Fast Algorithm of Convex Hull Vertices Selection for Online Classification
+Adaptive Antisynchronization of Multilayer Reaction–Diffusion Neural Networks
+Synchronization for the Realization-Dependent Probabilistic Boolean Networks
+Adaptive Tracking Control for Robots With an Interneural Computing Scheme
+Robust Estimation for Neural Networks With Randomly Occurring Distributed Delays and Markovian Jump Coupling
+Finite-Time Stabilization of Delayed Memristive Neural Networks: Discontinuous State-Feedback and Adaptive Control Approach
+Identifying a Probabilistic Boolean Threshold Network From Samples
+Online Nonlinear AUC Maximization for Imbalanced Data Sets
+Feature Combination via Clustering
+Impulsive Effects on Quasi-Synchronization of Neural Networks With Parameter Mismatches and Time-Varying Delay
+Multivariate Time-Series Classification Using the Hidden-Unit Logistic Model
+Manifold Regularized Reinforcement Learning
+Adaptive Unsupervised Feature Selection With Structure Regularization
+Adaptive Dynamic Programming for Discrete-Time Zero-Sum Games
+Quantization-Based Adaptive Actor-Critic Tracking Control With Tracking Error Constraints
+A Collaborative Neurodynamic Approach to Multiple-Objective Distributed Optimization
+On Mixed Data and Event Driven Design for Adaptive-Critic-Based Nonlinear H_infty Control
+Regularized Label Relaxation Linear Regression
+Collaborative Random Faces-Guided Encoders for Pose-Invariant Face Representation Learning
+Model-Based Adaptive Event-Triggered Control of Strict-Feedback Nonlinear Systems
+Finite-Time State Estimation for Recurrent Delayed Neural Networks With Component-Based Event-Triggering Protocol
+Quantum-Inspired Multidirectional Associative Memory With a Self-Convergent Iterative Learning
+Safe Exploration Algorithms for Reinforcement Learning Controllers
+Robustness Analysis on Dual Neural Network-based k WTA With Input Noise
+Differentiation-Free Multiswitching Neuroadaptive Control of Strict-Feedback Systems
+Pattern-Based NN Control of a Class of Uncertain Nonlinear Systems
+Fast-Solving Quasi-Optimal LS-S3VM Based on an Extended Candidate Set
+Homotopy Methods Based on L0-Norm for Compressed Sensing
+Adaptive Neural Output Feedback Control for Nonstrict-Feedback Stochastic Nonlinear Systems With Unknown Backlash-Like Hysteresis and Unknown Control Directions
+Probabilistic Distance for Mixtures of Independent Component Analyzers
+Adaptive Fuzzy Neural Network Control for a Constrained Robot Using Impedance Learning
+Simultaneous Bayesian Clustering and Feature Selection Through Student’s t Mixtures Model
+Finite-Horizon H_infty Tracking Control for Unknown Nonlinear Systems With Saturating Actuators
+Boundary Control of Linear Uncertain 1-D Parabolic PDE Using Approximate Dynamic Programming
+Discrete-Time Stable Generalized Self-Learning Optimal Control With Approximation Errors
+Neural-Network-Based Robust Optimal Tracking Control for MIMO Discrete-Time Systems With Unknown Uncertainty Using Adaptive Critic Design
+Partition-Based Solutions of Static Logical Networks With Applications
+Output Feedback-Based Boundary Control of Uncertain Coupled Semilinear Parabolic PDE Using Neurodynamic Programming
+Adaptive Sliding Mode Control of Dynamic Systems Using Double Loop Recurrent Neural Network Structure
+SPANNER: A Self-Repairing Spiking Neural Network Hardware Architecture
+Learning a No-Reference Quality Assessment Model of Enhanced Images With Big Data
+Person Reidentification Based on Elastic Projections
+k-Times Markov Sampling for SVMC
+Neural Network Learning and Robust Stabilization of Nonlinear Systems With Dynamic Uncertainties
+Groupwise Retargeted Least-Squares Regression
+Consensus of Hybrid Multi-Agent Systems
+Decomposition of Rotor Hopfield Neural Networks Using Complex Numbers
+A Stochastic Spiking Neural Network for Virtual Screening
+State Estimation for Static Neural Networks With Time-Varying Delays Based on an Improved Reciprocally Convex Inequality
+Improving KPCA Online Extraction by Orthonormalization in the Feature Space
+Observability of Automata Networks: Fixed and Switching Cases
+Robust C-Loss Kernel Classifiers
+Synchronization of General Chaotic Neural Networks With Nonuniform Sampling and Packet Missing: A Switched System Approach
+A One-Layer Recurrent Neural Network for Constrained Complex-Variable Convex Optimization
+A Deep Convolutional Coupling Network for Change Detection Based on Heterogeneous Optical and Radar Images
+Nonlinear Process Fault Diagnosis Based on Serial Principal Component Analysis
+Stabilization of Neural-Network-Based Control Systems via Event-Triggered Control With Nonperiodic Sampled Data
+Optimal Switching of DC–DC Power Converters Using Approximate Dynamic Programming
+Global Asymptotic Stability and Stabilization of Neural Networks With General Noise
+Supervised Discrete Hashing With Relaxation
+Dissipativity Analysis for Stochastic Memristive Neural Networks With Time-Varying Delays: A Discrete-Time Case
+Adaptive Reliable H_infty Static Output Feedback Control Against Markovian Jumping Sensor Failures
+Self-Taught Low-Rank Coding for Visual Learning
+Multiview Boosting With Information Propagation for Classification
+Probabilistic Low-Rank Multitask Learning
+Experienced Gray Wolf Optimization Through Reinforcement Learning and Neural Networks
+Cooperative Adaptive Output Regulation for Second-Order Nonlinear Multiagent Systems With Jointly Connected Switching Networks
+Determination of the Edge of Criticality in Echo State Networks Through Fisher Information Maximization
+Identifying Objective and Subjective Words via Topic Modeling
+Insights Into the Robustness of Minimum Error Entropy Estimation
+Robust DLPP With Nongreedy L1-Norm Minimization and Maximization
+Stability of Rotor Hopfield Neural Networks With Synchronous Mode
+Terminal Sliding Mode-Based Consensus Tracking Control for Networked Uncertain Mechanical Systems on Digraphs
+Kernel-Based Multilayer Extreme Learning Machines for Representation Learning
+Deep Logic Networks: Inserting and Extracting Knowledge From Deep Belief Networks
+An Exemplar-Based Multi-View Domain Generalization Framework for Visual Recognition
+Hysteretic Noisy Chaotic Neural Networks for Resource Allocation in OFDMA System
+Neuroadaptive Fault-Tolerant Control of Nonlinear Systems Under Output Constraints and Actuation Faults
+State Estimation for Delayed Genetic Regulatory Networks With Reaction–Diffusion Terms
+Incomplete Multisource Transfer Learning
+A pdf-Free Change Detection Test Based on Density Difference Estimation
+Multisynchronization of Coupled Heterogeneous Genetic Oscillator Networks via Partial Impulsive Control
+Concept Factorization With Adaptive Neighbors for Document Clustering
+Multivariate Cryptography Based on Clipped Hopfield Neural Network
+Passivity and Output Synchronization of Complex Dynamical Networks With Fixed and Adaptive Coupling Strength
+Constrained Null Space Component Analysis for Semiblind Source Separation Problem
+Learning to Predict Eye Fixations via Multiresolution Convolutional Neural Networks
+Network Unfolding Map by Vertex-Edge Dynamics Modeling
+Real-Time Decentralized Neural Control via Backstepping for a Robotic Arm Powered by Industrial Servomotors
+Investigating Echo-State Networks Dynamics by Means of Recurrence Analysis
+CLAss-Specific Subspace Kernel Representations and Adaptive Margin Slack Minimization for Large Scale Classification
+Decoupled ARX and RBF Neural Network Modeling Using PCA and GA Optimization for Nonlinear Distributed Parameter Systems
+Forward Stagewise Additive Model for Collaborative Multiview Boosting
+Localized Multiple Kernel Learning With Dynamical Clustering and Matrix Regularization
+High-Dimensional Function Approximation With Neural Networks for Large Volumes of Data
+Editorial: Growth and Success - Looking Forward to 2018 and Beyond
+Broad Learning System: An Effective and Efficient Incremental Learning System Without the Need for Deep Architecture
+Hair Segmentation Using Heuristically-Trained Neural Networks
+Event-Based Robust Control for Uncertain Nonlinear Systems Using Adaptive Dynamic Programming
+An Efficient Representation-Based Method for Boundary Point and Outlier Detection
+Development of Quantum Local Potential Function Networks Based on Quantum Assimilation and Subspace Division
+A Bi-Criteria Active Learning Algorithm for Dynamic Data Streams
+In Defense of Locality-Sensitive Hashing
+An Adaptive-PSO-Based Self-Organizing RBF Neural Network
+Nonfragile Exponential Synchronization of Delayed Complex Dynamical Networks With Memory Sampled-Data Control
+Decorrelation of Neutral Vector Variables: Theory and Applications
+Neural-Network-Based Adaptive Decentralized Fault-Tolerant Control for a Class of Interconnected Nonlinear Systems
+Distinct Variation Pattern Discovery Using Alternating Nonlinear Principal Component Analysis
+Online Optimization With Costly and Noisy Measurements Using Random Fourier Expansions
+Face Alignment With Deep Regression
+Synchronization of an Inertial Neural Network With Time-Varying Delays and Its Application to Secure Communication
+Robust Neuro-Optimal Control of Underactuated Snake Robots With Experience Replay
+Connections Between Nuclear-Norm and Frobenius-Norm-Based Representations
+On Global Dissipativity of Nonautonomous Neural Networks With Multiple Proportional Delays
+Adaptive Iterative Learning Control for Linear Systems With Binary-Valued Observations
+Laplacian Echo State Network for Multivariate Time Series Prediction
+One-Class Classifiers Based on Entropic Spanning Graphs
+Riemannian Dictionary Learning and Sparse Coding for Positive Definite Matrices
+Comparative Performance of Complex-Valued B-Spline and Polynomial Models Applied to Iterative Frequency-Domain Decision Feedback Equalization of Hammerstein Channels
+Adaptive Exponential Synchronization of Multislave Time-Delayed Recurrent Neural Networks With Lévy Noise and Regime Switching
+Binary Set Embedding for Cross-Modal Retrieval
+Airline Passenger Profiling Based on Fuzzy Deep Machine Learning
+Finite-Time Stability Analysis for Markovian Jump Memristive Neural Networks With Partly Unknown Transition Probabilities
+Cluster Validation Method for Determining the Number of Clusters in Categorical Sequences
+Joint Sparse Representation and Embedding Propagation Learning: A Framework for Graph-Based Semisupervised Learning
+The Twist Tensor Nuclear Norm for Video Completion
+Delay-Dependent Global Exponential Stability for Delayed Recurrent Neural Networks
+Assessing Generalization Ability of Majority Vote Point Classifiers
+Distributed Finite-Time Cooperative Control of Multiple High-Order Nonholonomic Mobile Robots
+Method for Determining the Optimal Number of Clusters Based on Agglomerative Hierarchical Clustering
+An Improved Result on Dissipativity and Passivity Analysis of Markovian Jump Stochastic Neural Networks With Two Delay Components
+A Novel Unified and Self-Stabilizing Algorithm for Generalized Eigenpairs Extraction
+Evolutionary Cost-Sensitive Extreme Learning Machine
+Novel Formulation of Adaptive MPC as EKF Using ANN Model: Multiproduct Semibatch Polymerization Reactor Case Study
+A New Neural Dynamic Classification Algorithm
+Integration of Semantic and Episodic Memories
+A New Result on H∞ State Estimation of Delayed Static Neural Networks
+Underdetermined Blind Source Separation Using Sparse Coding
+Randomized Prediction Games for Adversarial Machine Learning
+A New Local Bipolar Autoassociative Memory Based on External Inputs of Discrete Recurrent Neural Networks With Time Delay
+Discrete-Time Local Value Iteration Adaptive Dynamic Programming: Admissibility and Termination Analysis
+Pair-v-SVR: A Novel and Efficient Pairing nu-Support Vector Regression Algorithm
+Sampled-Data Consensus of Linear Multi-agent Systems With Packet Losses
+Needs, Pains, and Motivations in Autonomous Agents
+Adaptive Neural Networks Decentralized FTC Design for Nonstrict-Feedback Nonlinear Interconnected Large-Scale Systems Against Actuator Faults
+Lower Bounds on the Proportion of Leaders Needed for Expected Consensus of 3-D Flocks
+Efficient Exact Inference With Loss Augmented Objective in Structured Learning
+A Neurodynamic Optimization Approach to Bilevel Quadratic Programming
+Global Sensitivity Estimates for Neural Network Classifiers
+Backstepping Design of Adaptive Neural Fault-Tolerant Control for MIMO Nonlinear Systems
+Dealing With the Issues Crucially Related to the Functionality and Reliability of NN-Associated Control for Nonlinear Uncertain Systems
+Sampled-Data Synchronization of Markovian Coupled Neural Networks With Mode Delays Based on Mode-Dependent LKF
+Quantized Synchronization of Chaotic Neural Networks With Scheduled Output Feedback Control
+Finite-Time Stabilization and Adaptive Control of Memristor-Based Delayed Neural Networks
+Evaluating the Visualization of What a Deep Neural Network Has Learned
+A New Discrete-Time Multi-Constrained K-Winner-Take-All Recurrent Network and Its Application to Prioritized Scheduling
+Online Training of an Opto-Electronic Reservoir Computer Applied to Real-Time Channel Equalization
+Fully Decentralized Semi-supervised Learning via Privacy-preserving Matrix Completion
+Consensus of Multiagent Systems With Distance-Dependent Communication Networks
+A Unified Fisher’s Ratio Learning Method for Spatial Filter Optimization
+Regularized Class-Specific Subspace Classifier
+Model-Driven Analysis of Eyeblink Classical Conditioning Reveals the Underlying Structure of Cerebellar Plasticity and Neuronal Activity
+Person Re-identification by Multi-hypergraph Fusion
+Markov Blanket Feature Selection Using Representative Sets
+Greedy Methods, Randomization Approaches, and Multiarm Bandit Algorithms for Efficient Sparsity-Constrained Optimization
+A Rotational Motion Perception Neural Network Based on Asymmetric Spatiotemporal Visual Information Processing
+A Squeezed Artificial Neural Network for the Symbolic Network Reliability Functions of Binary-State Networks
+Discontinuous Observers Design for Finite-Time Consensus of Multiagent Systems With External Disturbances
+A Fast and Efficient Method for Training Categorical Radial Basis Function Networks
+Synchronization of Hierarchical Time-Varying Neural Networks Based on Asynchronous and Intermittent Sampled-Data Control
+LSTM: A Search Space Odyssey
+A New Discriminative Sparse Representation Method for Robust Face Recognition via l2 Regularization
+Kinematic Control of Redundant Manipulators Using Neural Networks
+Improving Neural-Network Classifiers Using Nearest Neighbor Partitioning
+Mesh Convolutional Restricted Boltzmann Machines for Unsupervised Learning of Features With Structure Preservation on 3-D Meshes
+Resolution of Singularities Introduced by Hierarchical Structure in Deep Neural Networks
+Semisupervised Feature Analysis by Mining Correlations Among Multiple Tasks
+Multiobjective Deep Belief Networks Ensemble for Remaining Useful Life Estimation in Prognostics
+Fractional Hopfield Neural Networks: Fractional Dynamic Associative Recurrent Neural Networks
+Synchronization of Switched Neural Networks With Communication Delays via the Event-Triggered Control
+A Collective Neurodynamic Optimization Approach to Nonnegative Matrix Factorization
+A Biologically Inspired Appearance Model for Robust Visual Tracking
+Optimized Structure of the Traffic Flow Forecasting Model With a Deep Learning Approach
+Event-Based H∞ State Estimation for Time-Varying Stochastic Dynamical Networks With State- and Disturbance-Dependent Noises
+Lagrange Programming Neural Network for Nondifferentiable Optimization Problems in Sparse Approximation
+Hierarchical Address Event Routing for Reconfigurable Large-Scale Neuromorphic Systems
+LMI Conditions for Global Stability of Fractional-Order Neural Networks
+Off-Policy Reinforcement Learning for Synchronization in Multiagent Graphical Games
+Observer-Based Discrete-Time Nonnegative Edge Synchronization of Networked Systems
+Stability of Recurrent Neural Networks With Time-Varying Delay via Flexible Terminal Method
+Semisupervised Feature Selection Based on Relevance and Redundancy Criteria
+Visual Recognition by Learning From Web Data via Weakly Supervised Domain Generalization
+The Growing Hierarchical Neural Gas Self-Organizing Neural Network
+A Novel Locally Linear KNN Method With Applications to Visual Recognition
+An Approach to Stable Gradient-Descent Adaptation of Higher Order Neural Units
+Descriptor Learning via Supervised Manifold Regularization for Multioutput Regression
+Online Learning of Hierarchical Pitman–Yor Process Mixture of Generalized Dirichlet Distributions With Feature Selection
+A Novel Neural Network for Generally Constrained Variational Inequalities
+Budget Online Learning Algorithm for Least Squares SVM
+Integral Sliding Mode Fault-Tolerant Control for Uncertain Linear Systems Over Networks With Signals Quantization
+Neural Network-Based Passive Filtering for Delayed Neutral-Type Semi-Markovian Jump Systems
+Online Regression for Data With Changepoints Using Gaussian Processes and Reusable Models
+Large-Cone Nonnegative Matrix Factorization
+Containment Control for Second-Order Multiagent Systems Communicating Over Heterogeneous Networks
+Predictor-Based Neural Dynamic Surface Control for Uncertain Nonlinear Systems in Strict-Feedback Form
+Robust Image Regression Based on the Extended Matrix Variate Power Exponential Distribution of Dependent Noise
+Smooth Neuroadaptive PI Tracking Control of Nonlinear Systems With Unknown and Nonsmooth Actuation Characteristics
+Methodology of Recurrent Laguerre–Volterra Network for Modeling Nonlinear Dynamic Systems
+Dynamic Surface Control for a Class of Nonlinear Feedback Linearizable Systems With Actuator Failures
+A New Powered Lower Limb Prosthesis Control Framework Based on Adaptive Dynamic Programming
+A Survey of Memristive Threshold Logic Circuits
+A Collective Neurodynamic Approach to Distributed Constrained Optimization
+Spectrum-Diverse Neuroevolution With Unified Neural Models
+Designing and Implementation of Stable Sinusoidal Rough-Neural Identifier
+MR-NTD: Manifold Regularization Nonnegative Tucker Decomposition for Tensor Data Dimension Reduction and Representation
+Understanding Social Causalities Behind Human Action Sequences
+Bridging the Gap Between Imitation Learning and Inverse Reinforcement Learning
+Passivity of Directed and Undirected Complex Dynamical Networks With Adaptive Coupling Weights
+Stability of Markovian Jump Generalized Neural Networks With Interval Time-Varying Delays
+Shrinkage Degree in L2-Rescale Boosting for Regression
+Extending the Peak Bandwidth of Parameters for Softmax Selection in Reinforcement Learning
+Exponential Synchronization of Memristive Neural Networks With Delays: Interval Matrix Method
+A Memristive Multilayer Cellular Neural Network With Applications to Image Processing
+An Adaptive NN-Based Approach for Fault-Tolerant Control of Nonlinear Time-Varying Delay Systems With Unmodeled Dynamics
+Lazy-Learning-Based Data-Driven Model-Free Adaptive Predictive Control for a Class of Discrete-Time Nonlinear Systems
+Hamiltonian-Driven Adaptive Dynamic Programming for Continuous Nonlinear Dynamical Systems
+Event-Triggered Adaptive Dynamic Programming for Continuous-Time Systems With Control Constraints
+Dynamical Analysis of the Hindmarsh–Rose Neuron With Time Delays
+Adaptation to New Microphones Using Artificial Neural Networks With Trainable Activation Functions
+Design of Probabilistic Boolean Networks Based on Network Structure and Steady-State Probabilities
+Feature Selection Based on Structured Sparsity: A Comprehensive Study
+Modeling Disease Progression via Multisource Multitask Learners: A Case Study With Alzheimer’s Disease
+Observer-Based Adaptive NN Control for a Class of Uncertain Nonlinear Systems With Nonsymmetric Input Saturation
+Neural Approximation-Based Adaptive Control for a Class of Nonlinear Nonstrict Feedback Discrete-Time Systems
+Characterization of Linearly Separable Boolean Functions: A Graph-Theoretic Perspective
+Fine-Grained Image Classification via Low-Rank Sparse Coding With General and Class-Specific Codebooks
+Impulsive Multisynchronization of Coupled Multistable Neural Networks With Time-Varying Delay
+Embedded Streaming Deep Neural Networks Accelerator With Applications
+Solution Path for Pin-SVM Classifiers With Positive and Negative τ Values
+Adaptive Event-Triggered Control Based on Heuristic Dynamic Programming for Nonlinear Discrete-Time Systems
+An Alternating Identification Algorithm for a Class of Nonlinear Dynamical Systems
+Exponential Synchronization for Markovian Stochastic Coupled Neural Networks of Neutral-Type via Adaptive Feedback Control
+Observer-Based Adaptive Neural Network Trajectory Tracking Control for Remotely Operated Vehicle
+Structural Minimax Probability Machine
+Global Synchronization of Multiple Recurrent Neural Networks With Time Delays via Impulsive Interactions
+Batch Mode Active Learning for Regression With Expected Model Change
+Prediction Reweighting for Domain Adaptation
+Switched-Observer-Based Adaptive Neural Control of MIMO Switched Nonlinear Systems With Unknown Control Gains
+μ-Stability of Nonlinear Positive Systems With Unbounded Time-Varying Delays
+Learning With Auxiliary Less-Noisy Labels
+Import Vector Domain Description: A Kernel Logistic One-Class Learning Algorithm
+Holographic Graph Neuron: A Bioinspired Architecture for Pattern Processing
+Robust Joint Graph Sparse Coding for Unsupervised Spectral Feature Selection
+Rate of Convergence of the FOCUSS Algorithm
+Action and Event Recognition in Videos by Learning From Heterogeneous Web Sources
+Mapping Temporal Variables Into the NeuCube for Improved Pattern Recognition, Predictive Modeling, and Understanding of Stream Data
+Adaptive Neural Control of Uncertain MIMO Nonlinear Systems With State and Input Constraints
+Co-Operative Coevolutionary Neural Networks for Mining Functional Association Rules
+Quantum Ensemble Classification: A Sampling-Based Learning Control Approach
+A Regularizer Approach for RBF Networks Under the Concurrent Weight Failure Situation
+Clustering Through Hybrid Network Architecture With Support Vectors
+Design and Application of a Variable Selection Method for Multilayer Perceptron Neural Network With LASSO
+Robustly Fitting and Forecasting Dynamical Data With Electromagnetically Coupled Artificial Neural Network: A Data Compression Method
+Efficient Training of Supervised Spiking Neural Network via Accurate Synaptic-Efficiency Adjustment Method
+Sparseness Analysis in the Pretraining of Deep Neural Networks
+Barrier Function-Based Neural Adaptive Control With Locally Weighted Learning and Finite Neuron Self-Growing Strategy
+Label Propagation via Teaching-to-Learn and Learning-to-Teach
+Optimized Kernel Entropy Components
+Quantized Iterative Learning Consensus Tracking of Digital Networks With Limited Information Communication
+Biomimetic Hybrid Feedback Feedforward Neural-Network Learning Control
+A Semisupervised Approach to the Detection and Characterization of Outliers in Categorical Data
+High-Order Measurements for Residual Classifiers
+High-Performance Consensus Control in Networked Systems With Limited Bandwidth Communication and Time-Varying Directed Topologies
+Pinning Impulsive Synchronization of Reaction–Diffusion Neural Networks With Time-Varying Delays
+Robust Recurrent Kernel Online Learning
+Learning Kernel Extended Dictionary for Face Recognition
+Learning Discriminative Subspaces on Random Contrasts for Image Saliency Analysis
+Coarse-to-Fine Learning for Single-Image Super-Resolution
+Affinity and Penalty Jointly Constrained Spectral Clustering With All-Compatibility, Flexibility, and Robustness
+State Estimation for Discrete-Time Dynamical Networks With Time-Varying Delays and Stochastic Disturbances Under the Round-Robin Protocol
+Event-Triggered State Estimation for Discrete-Time Multidelayed Neural Networks With Stochastic Parameters and Incomplete Measurements
+On Deep Learning for Trust-Aware Recommendations in Social Networks
+A Note on the Unification of Adaptive Online Learning
+LIF and Simplified SRM Neurons Encode Signals Into Spikes via a Form of Asynchronous Pulse Sigma–Delta Modulation
+A Collective Neurodynamic Approach to Constrained Global Optimization
+Adaptive Neural Network Nonparametric Identifier With Normalized Learning Laws
+Speeding Up Cellular Neural Network Processing Ability by Embodying Memristors
+Mixtures of Conditional Random Fields for Improved Structured Output Prediction
+A Robust Regularization Path Algorithm for ν-Support Vector Classification
+Guest Editorial: Special Issue on Learning in Neuromorphic Systems and Cyborg Intelligence
+Triplet Spike Time-Dependent Plasticity in a Floating-Gate Synapse
+Bag of Events: An Efficient Probability-Based Feature Extraction Method for AER Image Sensors
+A Binaural Neuromorphic Auditory Sensor for FPGA: A Spike Signal Processing Approach
+Neuromorphic Artificial Touch for Categorization of Naturalistic Textures
+Learning to Perceive the World as Probabilistic or Deterministic via Interaction With Others: A Neuro-Robotics Experiment
+CONE: Convex-Optimized-Synaptic Efficacies for Temporally Precise Spike Mapping
+A Novel Algorithm for Learning Sparse Spatio-Spectral Patterns for Event-Related Potentials
+Quantized Attention-Gated Kernel Reinforcement Learning for Brain–Machine Interface Decoding
+Mapping, Learning, Visualization, Classification, and Understanding of fMRI Data in the NeuCube Evolving Spatiotemporal Data Machine of Spiking Neural Networks
+An Online Unsupervised Structural Plasticity Algorithm for Spiking Neural Networks
+Parameter as a Switch Between Dynamical States of a Network in Population Decoding
+A Maximum Entropy Framework for Semisupervised and Active Learning With Unknown and Label-Scarce Classes
+Manifold-Based Reinforcement Learning via Locally Linear Reconstruction
+Adaptive Method for Nonsmooth Nonnegative Matrix Factorization
+An Adaptable Continuous Restricted Boltzmann Machine in VLSI for Fusing the Sensory Data of an Electronic Nose
+Scalable Algorithms for Multi-Instance Learning
+An Integrated Learning and Filtering Approach for Fault Diagnosis of a Class of Nonlinear Dynamical Systems
+An Optimization-Based Method for Feature Ranking in Nonlinear Regression Problems
+Symmetric Complex-Valued Hopfield Neural Networks
+Guest Editorial: Special Issue on New Developments in Neural Network Structures for Signal Processing, Autonomous Decision, and Adaptive Control
+Value and Policy Iterations in Optimal Control and Adaptive Dynamic Programming
+Machine Learning Capabilities of a Simulated Cerebellum
+Railway Track Circuit Fault Diagnosis Using Recurrent Neural Networks
+Neural Network-Based Solutions for Stochastic Optimal Control Using Path Integrals
+Sequential Nonlinear Learning for Distributed Multiagent Systems via Extreme Learning Machines
+Adaptive Fault-Tolerant Synchronization Control of a Class of Complex Dynamical Networks With General Input Distribution Matrices and Actuator Faults
+Cluster Synchronization on Multiple Nonlinearly Coupled Dynamical Subnetworks of Complex Networks With Nonidentical Nodes
+Air-Breathing Hypersonic Vehicle Tracking Control Based on Adaptive Dynamic Programming
+LQR-Based Optimal Distributed Cooperative Design for Linear Discrete-Time Multiagent Systems
+Synchronization of Arbitrarily Switched Boolean Networks
+A Two-Time-Scale Neurodynamic Approach to Constrained Minimax Optimization
+Finite-Time State Estimation for Coupled Markovian Neural Networks With Sensor Nonlinearities
+Approximate Optimal Control of Affine Nonlinear Continuous-Time Systems Using Event-Sampled Neurodynamic Programming
+Deep Direct Reinforcement Learning for Financial Signal Representation and Trading
+A Telescopic Binary Learning Machine for Training Neural Networks
+Fraction Dynamic-Surface-Based Neuroadaptive Finite-Time Containment Control of Multiagent Systems in Nonaffine Pure-Feedback Form
+Deep Neural Network for Structural Prediction and Lane Detection in Traffic Scene
+Off-Policy Integral Reinforcement Learning Method to Solve Nonlinear Continuous-Time Multiplayer Nonzero-Sum Games
+Iterative Adaptive Dynamic Programming for Solving Unknown Nonlinear Zero-Sum Game Based on Online Data
+Adaptive Output Neural Network Control for a Class of Stochastic Nonlinear Systems With Dead-Zone Nonlinearities
+Sampled-Data Synchronization Analysis of Markovian Neural Networks With Generally Incomplete Transition Rates
+Model-Based Reinforcement Learning for Infinite-Horizon Approximate Optimal Tracking
+Dual RBFNNs-Based Model-Free Adaptive Control With Aspen HYSYS Simulation
+Exponential Stability of Complex-Valued Memristive Recurrent Neural Networks
+Hierarchical Change-Detection Tests
+Stability Analysis of Neural Networks With Two Delay Components Based on Dynamic Delay Interval Method
+Asynchronous Dissipative State Estimation for Stochastic Complex Networks With Quantized Jumping Coupling and Uncertain Measurements
+A Locality-Constrained and Label Embedding Dictionary Learning Algorithm for Image Classification
+Asymmetric Actuator Backlash Compensation in Quantized Adaptive Control of Uncertain Networked Nonlinear Systems
+A Graph-Embedding Approach to Hierarchical Visual Word Mergence
+Identification and Control for Singularly Perturbed Systems Using Multitime-Scale Neural Networks
+Out-of-Sample Extensions for Non-Parametric Kernel Methods
+Extended Dissipative State Estimation for Markov Jump Neural Networks With Unreliable Links
+A Novel Twin Support-Vector Machine With Pinball Loss
+Closed-Loop Modulation of the Pathological Disorders of the Basal Ganglia Network
+QRNN: q-Generalized Random Neural Network
+Growing Echo-State Network With Multiple Subreservoirs
+A Scoring Scheme for Online Feature Selection: Simulating Model Performance Without Retraining
+Distributed Recurrent Neural Networks for Cooperative Control of Manipulators: A Game-Theoretic Perspective
+Graph Theory-Based Pinning Synchronization of Stochastic Complex Dynamical Networks
+Learning a Coupled Linearized Method in Online Setting
+Cross-Modality Feature Learning Through Generic Hierarchical Hyperlingual-Words
+Identification of Boolean Networks Using Premined Network Topology Information
+A Proposal for Local k Values for k-Nearest Neighbor Rule
+Impulsive Effects and Stability Analysis on Memristive Neural Networks With Variable Delays
+Neural Network-Based DOBC for a Class of Nonlinear Systems With Unmatched Disturbances
+Editorial: A Successful Year and Looking Forward to 2017 and Beyond
+Nonparametric Density Estimation Based on Self-Organizing Incremental Neural Network for Large Noisy Data
+Optimal Output Regulation for Heterogeneous Multiagent Systems via Adaptive Dynamic Programming
+SpikeTemp: An Enhanced Rank-Order-Based Learning Approach for Spiking Neural Networks With Adaptive Structure
+Accurate Maximum-Margin Training for Parsing With Context-Free Grammars
+Unsupervised Metric Fusion Over Multiview Data by Graph Random Walk-Based Cross-View Diffusion
+Pull-Based Distributed Event-Triggered Consensus for Multiagent Systems With Directed Topologies
+A Cooperative Learning-Based Clustering Approach to Lip Segmentation Without Knowing Segment Number
+Density-Dependent Quantized Least Squares Support Vector Machine for Large Data Sets
+A ParaBoost Method to Image Quality Assessment
+Monitoring Nonlinear and Non-Gaussian Processes Using Gaussian Mixture Model-Based Weighted Kernel Independent Component Analysis
+Multimodal Degradation Prognostics Based on Switching Kalman Filter Ensemble
+Learning the Conformal Transformation Kernel for Image Recognition
+Discriminative Feature Extraction by a Neural Implementation of Canonical Correlation Analysis
+3-D Laser-Based Multiclass and Multiview Object Detection in Cluttered Indoor Scenes
+Propagation of Collective Temporal Regularity in Noisy Hierarchical Networks
+Global Mittag–Leffler Stabilization of Fractional-Order Memristive Neural Networks
+Artificial Epigenetic Networks: Automatic Decomposition of Dynamical Control Tasks Using Topological Self-Modification
+Multiscale Support Vector Learning With Projection Operator Wavelet Kernel for Nonlinear Dynamical System Identification
+Training Radial Basis Function Neural Networks for Classification via Class-Specific Clustering
+Similarity Constraints-Based Structured Output Regression Machine: An Approach to Image Super-Resolution
+Deep Learning of Part-Based Representation of Data Using Sparse Autoencoders With Nonnegativity Constraints
+A Unified Framework for Representation-Based Subspace Clustering of Out-of-Sample and Large-Scale Data
+A Theoretical Foundation of Goal Representation Heuristic Dynamic Programming
+Sequential Compact Code Learning for Unsupervised Image Hashing
+Organizing Books and Authors by Multilayer SOM
+Generalized Higher Order Orthogonal Iteration for Tensor Learning and Decomposition
+Dynamic Learning From Neural Control for Strict-Feedback Systems With Guaranteed Predefined Performance
+Online Solution of Two-Player Zero-Sum Games for Continuous-Time Nonlinear Systems With Completely Unknown Dynamics
+Shortcomings/Limitations of Blockwise Granger Causality and Advances of Blockwise New Causality
+Semisupervised Multiclass Classification Problems With Scarcity of Labeled Data: A Theoretical Study
+Integration-Enhanced Zhang Neural Network for Real-Time-Varying Matrix Inversion in the Presence of Various Kinds of Noises
+Scalable Linear Visual Feature Learning via Online Parallel Nonnegative Matrix Factorization
+Information Theoretic Subspace Clustering
+Adaptive Scaling of Cluster Boundaries for Large-Scale Social Media Data Clustering
+K-MEAP: Multiple Exemplars Affinity Propagation With Specified K Clusters
+Landslide Displacement Prediction With Uncertainty Based on Neural Networks With Random Hidden Weights
+Impulsive Synchronization of Reaction–Diffusion Neural Networks With Mixed Delays and Its Application to Image Encryption
+MSDLSR: Margin Scalable Discriminative Least Squares Regression for Multicategory Classification
+Data-Driven Modeling for UGI Gasification Processes via an Enhanced Genetic BP Neural Network With Link Switches
+Is a Complex-Valued Stepsize Advantageous in Complex-Valued Gradient Learning Algorithms?
+Enhanced Logical Stochastic Resonance in Synthetic Genetic Networks
+A Boosting Approach to Exploit Instance Correlations for Multi-Instance Classification
+Using Digital Masks to Enhance the Bandwidth Tolerance and Improve the Performance of On-Chip Reservoir Computing Systems
+Synchronization Analysis and Design of Coupled Boolean Networks Based on Periodic Switching Sequences
+Power Quality Analysis Using a Hybrid Model of the Fuzzy Min–Max Neural Network and Clustering Tree
+Max-Margin-Based Discriminative Feature Learning
+Decomposition Techniques for Multilayer Perceptron Training
+Learning Robust and Discriminative Subspace With Low-Rank Constraints
+Decentralized Dimensionality Reduction for Distributed Tensor Data Across Sensor Networks
+Learning Transferred Weights From Co-Occurrence Data for Heterogeneous Transfer Learning
+Multiple Representations-Based Face Sketch–Photo Synthesis
+RBoost: Label Noise-Robust Boosting Algorithm Based on a Nonconvex Loss Function and the Numerically Stable Base Learners
+Estimating Sensorimotor Mapping From Stimuli to Behaviors to Infer C. elegans Movements by Neural Transmission Ability Through Connectome Databases
+A Comparison of Algorithms for Learning Hidden Variables in Bayesian Factor Graphs in Reduced Normal Form
+Sparse Bayesian Classification of EEG for Brain–Computer Interface
+Robust Kernel Low-Rank Representation
+Improving on Deterministic Approximate Bayesian Inferences for Mixture Distributions
+Optimizing Single-Trial EEG Classification by Stationary Matrix Logistic Regression in Brain–Computer Interface
+Online Learning ARMA Controllers With Guaranteed Closed-Loop Stability
+Feature Extraction Using Memristor Networks
+Exponential Stability and Stabilization of Delayed Memristive Neural Networks Based on Quadratic Convex Combination Method
+Detecting Wash Trade in Financial Market Using Digraphs and Dynamic Programming
+Multi-AUV Target Search Based on Bioinspired Neurodynamics Model in 3-D Underwater Environments
+A Consistent Model for Lazzaro Winner-Take-All Circuit With Invariant Subthreshold Behavior
+Asymptotically Stable Adaptive–Optimal Control Algorithm With Saturating Actuators and Relaxed Persistence of Excitation
+Identification of Nonlinear Spatiotemporal Dynamical Systems With Nonuniform Observations Using Reproducing-Kernel-Based Integral Least Square Regulation
+Echo State Networks With Orthogonal Pigeon-Inspired Optimization for Image Restoration
+Group Component Analysis for Multiblock Data: Common and Individual Feature Extraction
+Synchronization Control of Neural Networks With State-Dependent Coefficient Matrices
+Efficient χ2 Kernel Linearization via Random Feature Maps
+Why Deep Learning Works: A Manifold Disentanglement Perspective
+Feedback Solution to Optimal Switching Problems With Switching Cost
+Geometric Bioinspired Networks for Recognition of 2-D and 3-D Low-Level Structures and Transformations
+Classifying Stress From Heart Rate Variability Using Salivary Biomarkers as Reference
+Space Structure and Clustering of Categorical Data
+Kohonen’s Map Approach for the Belief Mass Modeling
+Multiple Ordinal Regression by Maximizing the Sum of Margins
+Adaptive Filter Design Using Type-2 Fuzzy Cerebellar Model Articulation Controller
+Directional Clustering Through Matrix Factorization
+Learning With Jensen-Tsallis Kernels
+Tensor LRR and Sparse Coding-Based Subspace Clustering
+Model-Free Optimal Tracking Control via Critic-Only Q-Learning
+Near Optimal Event-Triggered Control of Nonlinear Discrete-Time Systems Using Neurodynamic Programming
+Dynamical Behavior of Delayed Reaction–Diffusion Hopfield Neural Networks Driven by Infinite Dimensional Wiener Processes
+Semisupervised Support Vector Machines With Tangent Space Intrinsic Manifold Regularization
+Efficient Implementation of the Backpropagation Algorithm in FPGAs and Microcontrollers
+On the Performance of Manhattan Nonnegative Matrix Factorization
+Sequence Prediction With Sparse Distributed Hyperdimensional Coding Applied to the Analysis of Mobile Phone Use Patterns
+A Granular Self-Organizing Map for Clustering and Gene Selection in Microarray Data
+Hierarchical Temporal Memory Based on Spin-Neurons and Resistive Memory for Energy-Efficient Brain-Inspired Computing
+Image Understanding Applications of Lattice Autoassociative Memories
+Robust Low-Rank Tensor Recovery With Regularized Redescending M-Estimator
+Oversampling the Minority Class in the Feature Space
+Adaptive Neural Control for a Class of Pure-Feedback Nonlinear Systems via Dynamic Surface Technique
+Intelligent Tracking Control for a Class of Uncertain High-Order Nonlinear Systems
+A Derivative-Free Riemannian Powell’s Method, Minimizing Hartley-Entropy-Based ICA Contrast
+Feedback Controller Design for the Synchronization of Boolean Control Networks
+Guest Editorial Special Issue on "Neural Networks and Learning Systems Applications in Smart Grid"
+Dynamic State Estimation of Power Systems With Quantization Effects: A Recursive Filter Approach
+Assessing the Influence of an Individual Event in Complex Fault Spreading Network Based on Dynamic Uncertain Causality Graph
+Improved Fault Classification in Series Compensated Transmission Line: Comparative Evaluation of Chebyshev Neural Network Training Algorithms
+Dynamic Energy Management System for a Smart Microgrid
+Storage Free Smart Energy Management for Frequency Control in a Diesel-PV-Fuel Cell-Based Hybrid AC Microgrid
+Cooperative Strategy for Optimal Management of Smart Grids by Wavelet RNNs and Cloud Computing
+Assessing Short-Term Voltage Stability of Electric Power Systems by a Hierarchical Intelligent System
+Fair Energy Scheduling for Vehicle-to-Grid Networks Using Adaptive Dynamic Programming
+Automatic Learning of Fine Operating Rules for Online Power System Security Control
+Adaptive Portfolio Optimization for Multiple Electricity Markets Participation
+Two Machine Learning Approaches for Short-Term Wind Speed Time-Series Prediction
+Online Supplementary ADP Learning Controller Design and Application to Power System Frequency Control With Large-Scale Wind Energy Integration
+Adaptive Modulation for DFIG and STATCOM With High-Voltage Direct Current Transmission
+Machine Learning Methods for Attack Detection in the Smart Grid
+Smart-Grid Backbone Network Real-Time Delay Reduction via Integer Programming
+A Novel Empirical Mode Decomposition With Support Vector Regression for Wind Speed Forecasting
+Probe Machine
+Learning Compositional Shape Models of Multiple Distance Metrics by Information Projection
+Comparison Analysis: Granger Causality and New Causality and Their Applications to Motor Imagery
+Alternative Multiview Maximum Entropy Discrimination
+Parallel Online Temporal Difference Learning for Motor Control
+Sparse Uncorrelated Linear Discriminant Analysis for Undersampled Problems
+Stability Analysis for Delayed Neural Networks Considering Both Conservativeness and Complexity
+Compound Rank-k Projections for Bilinear Analysis
+Constrained Clustering With Nonnegative Matrix Factorization
+Control of Large-Scale Boolean Networks via Network Aggregation
+Near-Optimal Controller for Nonlinear Continuous-Time Systems With Unknown Dynamics Using Policy Iteration
+Image Super-Resolution via Adaptive  \ell _{p} (0< p< 1) Regularization and Sparse Representation
+Neural Network Control-Based Adaptive Learning Design for Nonlinear Systems With Full-State Constraints
+Learning Spike Time Codes Through Morphological Learning With Binary Synapses
+Saturated Finite Interval Iterative Learning for Tracking of Dynamic Systems With HNN-Structural Output
+Pinning Control Design for the Stabilization of Boolean Networks
+Can the Virtual Labels Obtained by Traditional LP Approaches Be Well Encoded in WLR?
+Guest Editorial Special Section on Visual Saliency Computing and Learning
+Manifold Ranking-Based Matrix Factorization for Saliency Detection
+DISC: Deep Image Saliency Computing via Progressive Representation Learning
+Human-Centered Saliency Detection
+Cosaliency Detection Based on Intrasaliency Prior Transfer and Deep Intersaliency Mining
+Spatiochromatic Context Modeling for Color Saliency Analysis
+Dual Low-Rank Pursuit: Learning Salient Features for Saliency Detection
+Improving Visual Saliency Computing With Emotion Intensity
+Reconciling Saliency and Object Center-Bias Hypotheses in Explaining Free-Viewing Fixations
+Bottom–Up Visual Saliency Estimation With Deep Autoencoder-Based Sparse Reconstruction
+Learning to Predict Sequences of Human Visual Fixations
+Saliency-Aware Nonparametric Foreground Annotation Based on Weakly Labeled Data
+The Application of Visual Saliency Models in Objective Image Quality Assessment: A Statistical Evaluation
+Salient Band Selection for Hyperspectral Image Classification via Manifold Ranking
+Guest Editorial Special Section on Learning in Non-(geo)metric Spaces
+Sparse Coding on Symmetric Positive Definite Manifolds Using Bregman Divergences
+Multicriteria Similarity-Based Anomaly Detection Using Pareto Depth Analysis
+Learning in Variable-Dimensional Spaces
+Manifold Learning for Multivariate Variable-Length Sequences With an Application to Similarity Search
+Constrained Clustering With Imperfect Oracles
+Hierarchical Image Segmentation Using Correlation Clustering
+Feature Combination and the kNN Framework in Object Classification
+Dissimilarity-Based Ensembles for Multiple Instance Learning
+Ensemble Manifold Rank Preserving for Acceleration-Based Human Activity Recognition
+Storing Sequencies in Binary Tournament-Based Neural Networks
+Data Generators for Learning Systems Based on RBF Networks
+A Novel Framework for Learning Geometry-Aware Kernels
+Hybrid Sampling-Based Clustering Ensemble With Global and Local Constitutions
+The Proximal Trajectory Algorithm in SVM Cross Validation
+MLPNN Training via a Multiobjective Optimization of Training Error and Stochastic Sensitivity
+Generalization Performance of Regularized Ranking with Multiscale Kernels
+A Maximum Margin Approach for Semisupervised Ordinal Regression Clustering
+Learning Discriminative Stein Kernel for SPD Matrices and Its Applications
+Probabilistic Slow Features for Behavior Analysis
+Improper Complex-Valued Bhattacharyya Distance
+A New Distance Metric for Unsupervised Learning of Categorical Data
+Integrated Low-Rank-Based Discriminative Feature Learning for Recognition
+A Nearest Neighbor Classifier Employing Critical Boundary Vectors for Efficient On-Chip Template Reduction
+Tree Ensembles on the Induced Discrete Space
+Neural Network-Based Event-Triggered State Feedback Control of Nonlinear Continuous-Time Systems
+Robust Adaptive Neural Tracking Control for a Class of Stochastic Nonlinear Interconnected Systems
+Generating Highly Accurate Predictions for Missing QoS Data via Aggregating Nonnegative Latent Factor Models
+Comparison of Seven Methods for Boolean Factor Analysis and Their Evaluation by Information Gain
+A New Stochastic Computing Methodology for Efficient Neural Network Implementation
+Hierarchical Theme and Topic Modeling
+A Nonnegative Latent Factor Model for Large-Scale Sparse Matrices in Recommender Systems via Alternating Direction Method
+Global Exponential Stability for Complex-Valued Recurrent Neural Networks With Asynchronous Time Delays
+Perception Evolution Network Based on Cognition Deepening Model—Adapting to the Emergence of New Sensory Receptor
+A Spiking Neural Network System for Robust Sequence Recognition
+DC Proximal Newton for Nonconvex Optimization Problems
+Relevance Vector Machine for Survival Analysis
+Analog Programmable Distance Calculation Circuit for Winner Takes All Neural Network Realized in the CMOS Technology
+Image Categorization by Learning a Propagated Graphlet Path
+Lag Synchronization of Memristor-Based Coupled Neural Networks via \omega-Measure
+L_{1}-Minimization Algorithms for Sparse Signal Reconstruction Based on a Projection Neural Network
